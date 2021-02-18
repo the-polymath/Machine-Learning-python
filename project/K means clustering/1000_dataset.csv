@@ -1,0 +1,1001 @@
+﻿ID,name,Food Group,Calories,Fat ,Protein ,Carbohydrate ,Net-Carbs ,Water 
+167512,Pillsbury Golden Layer Buttermilk Biscuits Artificial Flavor Refrigerated Dough,Baked Foods,307,13.24,5.88,41.18,39.98,35.5
+167513,Pillsbury Cinnamon Rolls With Icing Refrigerated Dough,Baked Foods,330,11.27,4.34,53.42,52.02,27.86
+167514,Kraft Foods Shake N Bake Original Recipe Coating For Pork Dry,Baked Foods,377,3.7,6.1,79.8,79.8,3.2
+167515,George Weston Bakeries Thomas English Muffins,Baked Foods,232,1.8,8,46,46,42.6
+167516,Waffles Buttermilk Frozen Ready-To-Heat,Baked Foods,273,9.22,6.58,41.05,38.85,40.34
+167517,Waffle Buttermilk Frozen Ready-To-Heat Toasted,Baked Foods,309,9.49,7.42,48.39,45.79,31.57
+167518,Waffle Buttermilk Frozen Ready-To-Heat Microwaved,Baked Foods,289,9.4,6.92,44.16,41.76,36.48
+167519,Waffle Plain Frozen Ready-To-Heat Microwave,Baked Foods,298,9.91,6.71,45.41,43.01,34.95
+167520,Pie Crust Cookie-Type Graham Cracker Ready Crust,Baked Foods,501,24.83,5.1,64.3,62.4,4.37
+167521,Pie Crust Cookie-Type Chocolate Ready Crust,Baked Foods,484,22.42,6.08,64.48,61.78,4.99
+167522,Dutch Apple Pie,Baked Foods,290,11.5,2.17,44.54,42.94,41.09
+167523,Pie Crust Deep Dish Frozen Unbaked Made With Enriched Flour,Baked Foods,468,28.74,5.52,46.79,45.39,17.78
+167524,Waffles Chocolate Chip Frozen Ready-To-Heat,Baked Foods,297,10.1,5.8,45.68,44.18,35.62
+167525,Tostada Shells Corn,Baked Foods,474,23.38,6.15,64.43,58.63,3.32
+167526,Bread Salvadoran Sweet Cheese (Quesadilla Salvadorena),Baked Foods,374,17.12,7.12,47.84,47.14,25.48
+167527,Bread Pound Cake Type Pan De Torta Salvadoran,Baked Foods,390,17.45,7.06,51.29,49.59,22.38
+167528,Pastry Pastelitos De Guava (Guava Pastries),Baked Foods,379,18.5,5.48,47.76,45.56,27.26
+167529,Crackers Snack Goya Crackers,Baked Foods,433,13.35,14.25,64.35,60.55,5.93
+167530,Crackers Cream Gamesa Sabrosas,Baked Foods,484,20.37,7.01,64.55,62.15,4.45
+167531,Crackers Cream La Moderna Rikis Cream Crackers,Baked Foods,464,19.5,7.19,64.88,62.48,4.48
+167532,Bread White Wheat,Baked Foods,238,2.15,10.66,43.91,34.71,39.6
+167533,Bagels Wheat,Baked Foods,250,1.53,10.2,48.89,44.79,37.55
+167534,Cream Puff Eclair Custard Or Cream Filled Iced,Baked Foods,334,18.52,4.41,37.43,36.53,38.64
+167535,Tortillas Ready-To-Bake Or -Fry Flour Shelf Stable,Baked Foods,297,7.58,8.01,49.27,46.87,32.43
+167536,Snacks Beef Jerky Chopped And Formed,Snacks,410,25.6,33.2,11,9.2,23.36
+167537,Snacks Corn-Based Extruded Chips Plain,Snacks,539,33.36,6.17,57.27,53.27,1.07
+167681,Fruit-Flavored Drink Dry Powdered Mix Low Calorie With Aspartame,Beverages,218,0.04,0.45,87.38,87.28,1.84
+167682,Pectin Liquid,Sweets,11,0,0,2.1,0,96.9
+167683,Frozen Novelties Ice Cream Type Vanilla Ice Cream Light No Sugar Added Chocolate Coated,Sweets,221,10.1,6.4,26.11,25.31,56.2
+167684,Creamy Dressing Made With Sour Cream And/or Buttermilk And Oil Reduced Calorie,Fats and Oils,160,14,1.5,7,7,74
+167685,Bologna Beef And Pork Low Fat,Meats,230,19.3,11.5,2.6,2.6,63.4
+167686,Milk Dessert Frozen Milk-Fat Free Chocolate,Sweets,167,1,4.3,37.7,37.7,56
+167687,Whipped Topping Frozen Low Fat,Dairy and Egg Products,224,13.1,3,23.6,23.6,59.7
+167688,Cream Substitute Powdered Light,Dairy and Egg Products,431,15.7,1.9,73.4,73.4,6.2
+167689,Mars Snackfood Us M&Ms Peanut Butter Chocolate,Sweets,529,29.32,10.16,56.89,52.89,2
+167690,Babyfood Apple Yogurt Dessert Strained,Baby Foods,93,1.6,0.8,19.5,19,77.9
+167691,Vegetable Oil-Butter Spread Reduced Calorie,Fats and Oils,465,53,0,0,0,44.7
+167692,Salad Dressing Blue Or Roquefort Cheese Dressing Light,Fats and Oils,86,2.7,2.1,13.2,13.2,77.8
+167693,Salad Dressing French Dressing Reduced Calorie,Fats and Oils,227,13,0.4,27,27,59
+167694,Turkey And Pork Sausage Fresh Bulk Patty Or Link Cooked,Meats,307,23,22.7,0.7,0.7,50.9
+167695,Mayonnaise Made With Tofu,Fats and Oils,322,31.79,5.95,3.06,1.96,56.33
+167696,Frankfurter Beef Low Fat,Meats,140,9.5,12,1.6,1.6,63.8
+167697,Milk Buttermilk Fluid Cultured Reduced Fat,Dairy and Egg Products,56,2,4.1,5.3,5.3,87.7
+167698,Pork Sausage Rice Links Brown And Serve Cooked,Meats,407,37.63,13.7,2.36,2.36,44.1
+167699,Salad Dressing Blue Or Roquefort Cheese Dressing Fat-Free,Fats and Oils,115,1.01,1.52,25.6,23.8,68
+167700,Salad Dressing Mayonnaise-Like Fat-Free,Fats and Oils,84,2.7,0.2,15.5,13.6,78.7
+167701,Mars Snackfood Us Milky Way Midnight Bar,Sweets,443,17.5,3.2,71.22,68.32,7.2
+167702,Flaxseed Oil,Fats and Oils,884,99.98,0.11,0,0,0.12
+167703,Cheese Cottage Lowfat 1% Milkfat Lactose Reduced,Dairy and Egg Products,74,1,12.4,3.2,2.6,82.5
+167704,Salad Dressing Bacon And Tomato,Fats and Oils,326,35,1.8,2,1.8,58.7
+167705,Grated Parmesan Cheese (Low-Sodium),Dairy and Egg Products,451,29.99,41.6,3.7,3.7,22.2
+167706,Jams Preserves Marmalade Reduced Sugar,Sweets,151,0.1,0,37.6,36.1,62
+167707,Fruit-Flavored Drink Powder With High Vitamin C With Other Added Vitamins Low Calorie,Beverages,227,0.16,0.25,91,88.8,1.32
+167708,Tomato And Vegetable Juice Low Sodium,Vegetables,22,0.1,0.6,4.59,3.79,93.5
+167946,Schifftigers Milk Bar,Sweets,387,14.29,16.8,56.46,54.16,10.28
+167947,Toblerone Milk Chocolate With Honey And Almond Nougat,Sweets,489,28.57,5.71,61.21,58.71,3.28
+167948,Snacks Corn-Based Extruded Onion-Flavor,Snacks,499,22.6,7.7,65.1,61.2,2
+167949,Snacks Corn-Based Extruded Puffs Or Twists Cheese-Flavor,Snacks,567,36.54,5.46,54.54,53.74,0.56
+167950,Snacks Kraft Cornnuts Plain,Snacks,446,15.64,8.5,71.86,64.96,1.3
+167951,Snacks Crisped Rice Bar Chocolate Chip,Snacks,404,13.5,5.1,73,70.8,7
+167952,Snacks Granola Bars Hard Chocolate Chip,Snacks,438,16.3,7.3,72.1,67.7,2.4
+167953,Fruit Syrup,Sweets,341,0,0,85.13,85.03,14.74
+167954,Snacks Granola Bars Soft Uncoated Plain,Snacks,443,17.2,7.4,67.3,62.7,6.4
+167955,Snacks Granola Bars Soft Uncoated Peanut Butter,Snacks,426,15.8,10.5,64.4,60.1,7.3
+167956,Topping Smuckers Magic Shell,Sweets,609,44.1,2.94,50.07,47.17,0.25
+167957,Syrup Fruit Flavored,Sweets,261,0.02,0,65.1,65.1,34.82
+167958,Snacks Oriental Mix Rice-Based,Snacks,506,25.58,17.31,51.62,38.42,2.55
+167959,Snacks Popcorn Air-Popped,Snacks,387,4.54,12.94,77.78,63.28,3.32
+167960,Snacks Popcorn Cheese-Flavor,Snacks,526,33.2,9.3,51.6,41.7,2.5
+167961,Snacks Pork Skins Plain,Snacks,544,31.3,61.3,0,0,1.8
+167962,Snacks Potato Chips Barbecue-Flavor,Snacks,487,31.06,6.51,55.92,52.12,2.48
+167963,Snacks Potato Chips Sour-Cream-And-Onion-Flavor,Snacks,531,33.9,8.1,51.5,46.3,1.8
+167964,Snacks M&m Mars Combos Snacks Cheddar Cheese Pretzel,Snacks,463,16.92,9.85,66.5,62.9,1.67
+167965,Snacks Pretzels Hard Whole-Wheat Including Both Salted And Unsalted,Snacks,362,2.6,11.1,81.3,73.6,3.9
+167966,Snacks Rice Cracker Brown Rice Plain,Snacks,387,2.8,8.2,81.5,77.3,5.8
+167967,Snacks Rice Cakes Brown Rice Buckwheat,Snacks,380,3.5,9,80.1,76.3,5.9
+167968,Snacks Trail Mix Tropical,Snacks,442,17.1,6.3,65.6,65.6,9
+167969,Trail Mix,Snacks,484,31.9,14.2,44.9,39.9,6.6
+167970,Snacks Tortilla Chips Taco-Flavor,Snacks,480,24.2,7.9,63.1,57.8,1.6
+167971,Tootsie Roll Chocolate-Flavor Roll,Sweets,387,3.31,1.59,87.73,87.63,6.69
+167972,Butterscotch Candy,Sweets,391,3.3,0.03,90.4,90.4,5.25
+167973,Carob Unsweetened,Sweets,540,31.36,8.15,56.29,52.49,1.54
+167974,Caramel Candy,Sweets,382,8.1,4.6,77,77,8.5
+167975,Caramello Candy Bar,Sweets,462,21.19,6.19,63.81,62.61,6.79
+167976,Semisweet Chocolate,Sweets,480,30,4.2,63.9,58,0.7
+167977,Sweet Chocolate,Sweets,507,34.2,3.9,60.4,54.9,0.5
+167978,Sweet Chocolate Coated Fondant,Sweets,366,9.3,2.2,80.4,78.3,7.7
+167979,Hersheys Golden Almond Solitaires,Sweets,569,37.13,11.97,46.85,42.45,1.26
+167980,Confectioners Coating Butterscotch,Sweets,539,29.05,2.2,67.1,67.1,0.75
+167981,Ice Creams French Vanilla Soft-Serve,Sweets,222,13,4.1,22.2,21.5,59.8
+167982,York Peppermint Pattie,Sweets,384,7.17,2.19,80.99,78.99,9.03
+167983,Twizzlers Nibs Cherry Bits,Sweets,347,2.64,2.3,79.37,78.77,15
+167984,Symphony Milk Chocolate Bar,Sweets,531,30.57,8.51,58.01,56.31,0.94
+167985,5th Avenue Candy Bar,Sweets,482,23.98,8.78,62.68,59.58,2.3
+167986,Fondant Prepared-From-Recipe,Sweets,373,0.02,0,93.18,93.18,6.74
+167987,Fudge Chocolate Prepared-From-Recipe,Sweets,410,10.41,2.39,76.7,75,9.81
+167988,Fudge Chocolate With Nuts Prepared-From-Recipe,Sweets,460,18.93,4.38,68.15,65.65,7.66
+167989,Jelly Gumdrops,Sweets,396,0,0,98.9,98.8,1
+167990,Hard Candy,Sweets,394,0.2,0,98,98,1.3
+167991,Jellybeans,Sweets,375,0.05,0,93.55,93.35,6.3
+167992,Kit Kat Wafer Bar,Sweets,518,25.99,6.51,64.59,63.59,1.63
+167993,Krackel Chocolate Bar,Sweets,523,26.58,6.62,64.34,62.14,1.17
+167994,Mars Snackfood Us Mars Almond Bar,Sweets,467,23,8.1,62.7,60.7,4.5
+167995,Marshmallows,Sweets,318,0.2,1.8,81.3,81.2,16.4
+167996,Halavah Plain,Sweets,469,21.52,12.49,60.49,55.99,3.67
+167997,Nestle Oh Henry! Bar,Sweets,462,23,7.7,65.5,63.6,2.3
+167998,Puddings Chocolate Dry Mix Instant Prepared With 2% Milk,Sweets,105,1.92,3.15,18.89,18.49,74.59
+167999,Baking Chocolate Mexican Squares,Sweets,426,15.59,3.64,77.41,73.41,1.59
+168000,Chocolate-Flavored Hazelnut Spread,Sweets,539,29.73,5.41,62.36,56.96,1.07
+168001,Milk Chocolate Coated Peanuts,Sweets,519,33.5,13.1,49.7,45,1.9
+168002,Glutino Gluten Free Wafers Lemon Flavored,Baked Foods,515,24.18,0,74.39,74.39,1.12
+168003,Glutino Gluten Free Wafers Milk Chocolate,Baked Foods,541,30.42,4.06,62.82,61.22,1.37
+168004,Marys Gone Crackers Original Crackers Organic Gluten Free,Baked Foods,446,15.63,12.06,64.29,48.09,4.29
+168005,Pepperidge Farm Goldfish Baked Snack Crackers Cheddar,Baked Foods,457,16.11,11.71,66.2,66.2,3.17
+168006,Pepperidge Farm Goldfish Baked Snack Crackers Explosive Pizza,Baked Foods,458,16.82,9.56,67.2,67.2,3.5
+168007,Sage Valley Gluten Free Vanilla Sandwich Cookies,Baked Foods,499,22.15,3.13,71.88,70.88,2.06
+168008,Schar Gluten-Free Classic White Rolls,Baked Foods,239,2.65,3.34,50.47,45.37,42
+168009,Schar Gluten-Free Wheat-Free Classic White Bread,Baked Foods,240,4.47,3.81,46.13,41.03,43.87
+168010,Udis Gluten Free Classic French Dinner Rolls,Baked Foods,310,6.4,7.99,55.1,51.5,28.3
+168011,Vans Gluten Free Totally Original Waffles,Baked Foods,248,8.22,2.99,40.54,40.54,46.22
+168012,Vans The Perfect 10 Crispy Six Whole Grain + Four Seed Baked Crackers Gluten Free,Baked Foods,471,18.93,7.63,67.57,67.57,3.09
+168013,Bread Multi-Grain (Includes Whole-Grain),Baked Foods,265,4.23,13.36,43.34,35.94,36.94
+168014,Cookies Animal Crackers (Includes Arrowroot Tea Biscuits),Baked Foods,446,13.8,6.9,74.1,73,3.9
+168015,Sweet Potatoes French Fried Crosscut Frozen Unprepared,Vegetables,209,11.1,1.7,25.52,22.12,60.59
+168016,Sweet Potato Puffs Frozen Unprepared,Vegetables,161,3.58,1.36,30.72,28.82,63.02
+174276,Soy Protein Powder (Isolate),Beans and Lentils,335,3.39,88.32,0,0,4.98
+174302,Soy Protein Isolate Potassium Type,Beans and Lentils,321,0.53,88.32,2.59,2.59,4.98
+169599,Gelatin,Sweets,335,0.1,85.6,0,0,13
+170895,Egg White Powder,Dairy and Egg Products,357,0.32,84.08,4.51,4.51,5.48
+168020,Seal Bearded (Oogruk) Meat Dried (Alaska Native),American Indian,351,2.3,82.6,0,0,11.6
+173427,Egg White Dried Powder Stabilized Glucose Reduced,Dairy and Egg Products,376,0.04,82.4,4.47,4.47,8.54
+172204,Egg White Dried,Dairy and Egg Products,382,0,81.1,7.8,7.8,5.8
+173180,Protein Powder Whey Based,Beverages,352,1.56,78.13,6.25,3.15,3.44
+168059,Steelhead Trout Dried Flesh (Shoshone Bannock),American Indian,382,8.06,77.27,0,0,6.49
+173426,Egg White Dried Flakes Stabilized Glucose Reduced,Dairy and Egg Products,351,0.04,76.92,4.17,4.17,14.62
+782694,Tuna Fresh Dried,Fish,341,1.53,76.25,0,0,18.84
+168147,Vital Wheat Gluten,Grains and Pasta,370,1.85,75.16,13.79,13.19,8.2
+169795,Whale Beluga Meat Dried (Alaska Native),American Indian,327,5.34,69.86,0,0,22.39
+173167,Abbott Eas Whey Protein Powder,Beverages,385,5.13,66.67,17.95,17.95,6.61
+782634,Salmon Dried,Fish,397,13.75,64.06,0,0,23.5
+172447,Soy Protein Concentrate Produced By Alcohol Extraction,Beans and Lentils,328,0.46,63.63,25.41,19.91,5.8
+174301,Soy Protein Concentrate Produced By Acid Wash,Beans and Lentils,328,0.46,63.63,25.41,19.91,5.8
+174190,Dried Salted Atlantic Cod,Fish,290,2.37,62.82,0,0,16.14
+168052,Fish Whitefish Dried (Alaska Native),American Indian,371,13.44,62.44,0,0,20.59
+167650,Seal Bearded (Oogruk) Meat Partially Dried (Alaska Native),American Indian,270,2.31,62.38,0,0,34.92
+168054,Fish Salmon Chum Dried (Alaska Native),American Indian,378,14.38,62.09,0,0,22.79
+167961,Snacks Pork Skins Plain,Snacks,544,31.3,61.3,0,0,1.8
+169813,Salmon Red (Sockeye) Filets With Skin Smoked (Alaska Native),American Indian,345,11.43,60.62,0,0,23.93
+168990,Fish Herring Eggs Pacific Dry (Alaska Native),American Indian,312,6.6,60.4,2.8,2.8,27.3
+168049,Caribou Shoulder Meat Dried (Alaska Native),American Indian,271,3.67,59.38,0,0,33.81
+782750,Squid Dried,Fish,348,5.22,58.94,11.65,11.65,16.96
+173177,Whey Protein Powder Isolate,Beverages,359,1.16,58.14,29.07,29.07,0.86
+168851,Snacks Pork Skins Barbecue-Flavor,Snacks,538,31.8,57.9,1.6,1.6,2.1
+170495,Dried Spirulina Seaweed,Vegetables,290,7.72,57.47,23.9,20.3,4.68
+167621,Walrus Meat Dried (Alaska Native),American Indian,251,2.6,57,0,0,38.8
+782737,Octopus Dried,Fish,311,3.94,56.52,8.34,8.34,23.99
+167654,Smelt Dried (Alaska Native),American Indian,386,17.9,56.19,0,0,16.92
+782539,Herring Dried Salted,Fish,490,28.04,55.71,0,0,10.98
+173181,Protein Powder Soy Based,Beverages,388,5.56,55.56,28.89,22.19,4.13
+173429,Egg Substitute Powder,Dairy and Egg Products,444,13,55.5,21.8,21.8,3.86
+169692,Gelatin Desserts Dry Mix Reduced Calorie With Aspartame Added Phosphorus Potassium Sodium Vitamin C,Sweets,345,0,55.3,33.3,33.3,6.7
+169693,Gelatin Desserts Dry Mix Reduced Calorie With Aspartame No Added Sodium,Sweets,345,0,55.3,33.3,33.3,6.7
+174181,Nutritional Shake Mix High Protein Powder,Beverages,392,10.71,53.57,20.38,20.38,8.3
+172450,Tofu Dried-Frozen (Koyadofu),Beans and Lentils,477,30.34,52.47,10.03,2.83,5.78
+174303,Tofu Dried-Frozen (Koyadofu) Prepared With Calcium Sulfate,Beans and Lentils,470,30.34,52.43,8.3,7.1,5.78
+174267,Peanut Flour Defatted,Beans and Lentils,327,0.55,52.2,34.7,18.9,7.8
+167644,Caribou Rump Meat Half Dried (Alaska Native),American Indian,255,5.23,52.06,0,0,38.04
+782823,Shrimp Dried,Fish,253,3.44,51.7,0,0,38.86
+174275,Soy Flour Defatted,Beans and Lentils,327,1.22,51.46,33.92,16.42,7.25
+170560,Seeds Sesame Flour Low-Fat,Nuts and Seeds,333,1.75,50.14,35.51,35.51,7.1
+173460,Protein Supplement Milk Based Muscle Milk Light Powder,Dairy and Egg Products,396,12,50,22,20,12
+170146,Seeds Cottonseed Flour Low Fat (Glandless),Nuts and Seeds,332,1.41,49.83,36.1,36.1,6.9
+172444,Soy Flour Low-Fat,Beans and Lentils,372,8.9,49.81,30.63,14.63,4.61
+172445,Soy Meal Defatted Raw,Beans and Lentils,337,2.39,49.2,35.89,35.89,6.94
+170147,Seeds Cottonseed Meal Partially Defatted (Glandless),Nuts and Seeds,367,4.77,49.1,38.43,38.43,1.2
+173425,Egg Whole Dried Stabilized Glucose Reduced,Dairy and Egg Products,615,43.95,48.17,2.38,2.38,1.87
+170156,Seeds Sunflower Seed Flour Partially Defatted,Nuts and Seeds,326,1.61,48.06,35.83,30.63,7.47
+172188,Dried Eggs,Dairy and Egg Products,592,43.9,48.05,1.13,1.13,2.78
+171984,Whelk (Cooked),Fish,275,0.8,47.68,15.52,15.52,32
+174813,Abbott Eas Soy Protein Powder,Beverages,405,3.57,47.62,43.94,43.94,2.83
+782638,Sardines Dried,Fish,406,23.18,46.06,0,0,28.32
+173459,Protein Supplement Milk Based Muscle Milk Powder,Dairy and Egg Products,411,17.14,45.71,18.5,11.4,15
+782530,Halibut Smoked,Fish,219,3.2,44.61,0,0,51.55
+169807,Fish Herring Pacific Flesh Air-Dried Packed In Oil (Alaska Native),American Indian,489,34.6,44.5,0,0,18.2
+172441,Dry-Roasted Soybeans,Beans and Lentils,449,21.62,43.32,28.98,20.88,0.8
+174268,Meat Extender,Beans and Lentils,311,2.97,41.71,34.71,17.21,7.48
+167705,Grated Parmesan Cheese (Low-Sodium),Dairy and Egg Products,451,29.99,41.6,3.7,3.7,22.2
+170555,Seeds Cottonseed Flour Partially Defatted (Glandless),Nuts and Seeds,359,6.2,40.96,40.54,37.54,6.3
+175043,Leavening Agents Yeast Bakers Active Dry,Baked Foods,325,7.61,40.44,41.22,14.32,5.08
+170153,Seeds Sesame Flour Partially Defatted,Nuts and Seeds,382,11.89,40.32,35.14,35.14,6.61
+172206,Parmesan Cheese Topping Fat Free,Dairy and Egg Products,370,5,40,40,40,8.6
+167615,Fish Salmon King Chinook Smoked Brined (Alaska Native),American Indian,430,30,39.9,0,0,23.6
+168321,Pork Cured Bacon Cooked Microwaved,Meats,476,34.12,39.01,0.48,0.48,20.38
+172440,Soybeans Mature Seeds Roasted Salted,Beans and Lentils,469,25.4,38.55,30.22,12.52,1.95
+174300,Soybeans Mature Seeds Roasted No Salt Added,Beans and Lentils,469,25.4,38.55,30.22,12.52,1.95
+174274,Soy Flour Full-Fat Roasted,Beans and Lentils,439,21.86,38.09,30.38,20.68,3.81
+173431,Shredded Parmesan,Dairy and Egg Products,415,27.34,37.86,3.41,3.41,25
+782931,Fish Moochim,Fish,340,15.74,37.85,10.72,9.92,22.15
+174273,Soy Flour Full-Fat Raw,Beans and Lentils,434,20.65,37.81,31.92,22.32,5.16
+167712,Pork Cured Bacon Cooked Broiled Pan-Fried Or Roasted Reduced Sodium,Meats,541,41.78,37.04,1.43,1.43,12.32
+175270,Veal Leg Top Roast (Cooked),Meats,203,5.09,36.71,0,0,56.18
+174270,Soybeans Mature Seeds Raw,Beans and Lentils,446,19.94,36.49,30.16,20.86,8.54
+172605,Game Meat Deer Shoulder Clod Separable Lean Only Cooked Braised,Meats,191,3.95,36.28,0,0,59.78
+172423,Lupins Mature Seeds Raw,Beans and Lentils,371,9.74,36.17,40.37,21.47,10.44
+170877,Milk Dry Nonfat Regular Without Added Vitamin A And Vitamin D,Dairy and Egg Products,362,0.77,36.16,51.98,51.98,3.16
+172195,Milk Dry Nonfat Regular With Added Vitamin A And Vitamin D,Dairy and Egg Products,362,0.77,36.16,51.98,51.98,3.16
+173818,Veal Leg (Top Round) Separable Lean And Fat Cooked Braised,Meats,211,6.33,36.16,0,0,55.49
+170235,Beef Round Top Round Separable Lean Only Trimmed To 0 Inch Fat Choice Cooked Braised,Meats,207,5.8,36.12,0,0,58.1
+170236,Beef Round Top Round Separable Lean Only Trimmed To 0 Inch Fat Select Cooked Braised,Meats,190,4,36.12,0,0,59.3
+782049,Venison/deer Nfs,Meats,190,3.93,36.08,0,0,59.45
+782051,Venison/deer Roasted,Meats,190,3.93,36.08,0,0,59.45
+782057,Venison/deer Ribs Cooked,Meats,190,3.93,36.08,0,0,59.45
+782058,Venison/deer Stewed,Meats,190,3.93,36.08,0,0,59.45
+782031,Veal Cutlet Or Steak Ns As To Cooking Method Lean And Fat Eaten,Meats,209,6.28,35.86,0,0,55.03
+169897,Beverage Instant Breakfast Powder Chocolate Sugar-Free Not Reconstituted,Dairy and Egg Products,358,5.1,35.8,41,39,7.4
+170848,Grated Parmesan (Hard),Dairy and Egg Products,392,25,35.75,3.22,3.22,30
+167914,Pork Cured Bacon Cooked Baked,Meats,548,43.27,35.73,1.35,1.35,12.52
+175283,Veal Shoulder Arm Separable Lean Only Cooked Braised,Meats,201,5.33,35.73,0,0,58.2
+170234,Beef Round Top Round Separable Lean And Fat Trimmed To 0 Inch Fat Select Cooked Braised,Meats,200,5.33,35.62,0,0,58.49
+170559,Seeds Safflower Seed Meal Partially Defatted,Nuts and Seeds,342,2.39,35.62,48.73,48.73,6.41
+170638,Beef Round Top Round Separable Lean And Fat Trimmed To 0 Inch Fat All Grades Cooked Braised,Meats,209,6.31,35.62,0,0,57.9
+170639,Beef Round Top Round Separable Lean And Fat Trimmed To 0 Inch Fat Choice Cooked Braised,Meats,216,7.09,35.62,0,0,57.31
+174331,Lamb Shoulder Roast (Cooked),Meats,279,14.08,35.54,0,0,49.32
+171273,Milk Dry Nonfat Calcium Reduced,Dairy and Egg Products,354,0.2,35.5,51.8,51.8,4.9
+782685,Trout Smoked,Fish,251,10.99,35.47,0,0,52.06
+781961,Fried Pork Chunks Puerto Rican Style,Meats,257,11.35,35.33,0.86,0.76,49.49
+168051,Seal Bearded (Oogruk) Meat Dried In Oil (Alaska Native),American Indian,367,25.08,35.31,0,0,35.48
+789724,Nutritional Powder Mix (Kellogg's Special K20 Protein Water),Baby Foods,380,0.6,35.2,58.4,20.9,3.95
+167645,Fish Salmon Red (Sockeye) Canned Smoked (Alaska Native),American Indian,206,7.26,35.19,0,0,56.49
+782050,Venison/deer Cured,Meats,187,4.08,35.11,0,0,57.86
+171272,Milk Dry Nonfat Instant With Added Vitamin A And Vitamin D,Dairy and Egg Products,358,0.72,35.1,52.19,52.19,3.96
+172196,Milk Dry Nonfat Instant Without Added Vitamin A And Vitamin D,Dairy and Egg Products,358,0.72,35.1,52.19,52.19,3.96
+175289,Veal Cubed For Stew (Leg And Shoulder) Separable Lean Only Cooked Braised,Meats,188,4.31,34.94,0,0,59.29
+170226,Beef Round Bottom Round Steak Separable Lean Only Trimmed To 0 Inch Fat Select Cooked Braised,Meats,206,6.3,34.93,0,0,58.82
+175295,Game Meat Beaver Cooked Roasted,Meats,212,6.96,34.85,0,0,57.92
+781457,Milk Dry Not Reconstituted Low Fat (1%),NULL,363,1.7,34.76,51.67,51.67,3.92
+171817,Beef Chuck Arm Pot Roast Separable Lean Only Trimmed To 1/8 Inch Fat Choice Cooked Braised,Meats,224,8.37,34.72,0,0,56.39
+782066,Beaver Cooked,Meats,211,6.93,34.7,0,0,57.68
+174050,Beef Chuck Arm Pot Roast Separable Lean Only Trimmed To 1/8 Inch Fat All Grades Cooked Braised,Meats,214,7.36,34.66,0,0,57.84
+168713,Beef Round Top Round Separable Lean And Fat Trimmed To 1/8 Inch Fat Select Cooked Braised,Meats,225,8.54,34.6,0,0,55.63
+174767,Beef Chuck Arm Pot Roast Separable Lean Only Trimmed To 1/8 Inch Fat Select Cooked Braised,Meats,205,6.35,34.6,0,0,59.29
+173073,Beef New Zealand Imported Brisket Point End Separable Lean Only Cooked Braised,Meats,202,7.05,34.51,0,0,58.64
+174045,Beef Round Bottom Round Steak Separable Lean Only Trimmed To 1/8 Inch Fat Select Cooked Braised,Meats,205,6.43,34.46,0,0,58.64
+173829,Veal Rib Separable Lean Only Cooked Braised,Meats,218,7.81,34.44,0,0,56.08
+170225,Beef Round Bottom Round Steak Separable Lean And Fat Trimmed To 0 Inch Fat Select Cooked Braised,Meats,217,7.72,34.39,0,0,57.92
+169530,Beef Round Top Round Separable Lean And Fat Trimmed To 1/8 Inch Fat All Grades Cooked Braised,Meats,238,10.13,34.34,0,0,54.68
+174053,Beef Round Bottom Round Steak Separable Lean Only Trimmed To 1/8 Inch Fat All Grades Cooked Braised,Meats,216,7.73,34.34,0,0,57.54
+171274,Milk Buttermilk Dried,Dairy and Egg Products,387,5.78,34.3,49,49,2.97
+173115,Beef Round Bottom Round Steak Separable Lean Only Trimmed To 1/8 Inch Fat Choice Cooked Braised,Meats,228,9.02,34.22,0,0,56.44
+174420,Lamb Australian Imported Fresh Shoulder Arm Separable Lean Only   Trimmed To 1/8 Inch Fat Cooked Braised,Meats,238,10.23,34.17,0,0,56.98
+168709,Beef Round Top Round Separable Lean And Fat Trimmed To 1/8 Inch Fat Choice Cooked Braised,Meats,250,11.61,34.09,0,0,53.83
+173814,Lamb New Zealand Imported Frozen Shoulder Whole (Arm And Blade) Separable Lean Only Cooked Braised,Meats,285,15.5,34.06,0,0,47.86
+781857,Beef Stew Meat Cooked Lean And Fat Eaten,Meats,236,10.05,34.05,0,0,54.23
+782756,Abalone Steamed Or Poached,Fish,209,1.51,34.05,11.97,11.97,48.47
+170628,Beef Round Bottom Round Steak Separable Lean Only Trimmed To 0 Inch Fat All Grades Cooked Braised,Meats,214,7.67,34,0,0,58.09
+173841,Veal Sirloin Separable Lean Only Cooked Braised,Meats,204,6.51,33.96,0,0,58.55
+168708,Beef Round Top Round Separable Lean Only Trimmed To 1/8 Inch Fat Choice Cooked Pan-Fried,Meats,228,8.33,33.93,2.03,2.03,54.18
+168322,Bacon (Pan-Fried),Meats,468,35.09,33.92,1.7,1.7,23.65
+169469,Beef Brisket Flat Half Separable Lean Only Trimmed To 0 Inch Fat Select Cooked Braised,Meats,198,5.92,33.9,0,0,59.92
+172435,Peanut Flour Low Fat,Beans and Lentils,428,21.9,33.8,31.27,15.47,7.8
+174424,Game Meat Bison Chuck Shoulder Clod Separable Lean Only Cooked Braised,Meats,193,5.43,33.78,0,0,60.48
+172509,Lamb Domestic Cubed For Stew Or Kabob (Leg And Shoulder) Separable Lean Only Trimmed To 1/4 Inch Fat Cooked Braised,Meats,223,8.8,33.69,0,0,56.23
+169442,Beef Shank Crosscuts Separable Lean Only Trimmed To 1/4 Inch Fat Choice Cooked Simmered,Meats,201,6.36,33.68,0,0,58.21
+173831,Veal Shoulder Whole (Arm And Blade) Separable Lean Only Cooked Braised,Meats,199,6.1,33.68,0,0,58.88
+172834,Emu Full Rump Cooked Broiled,Meats,168,2.68,33.67,0,0,61.97
+782030,Veal Cutlet Or Steak Ns As To Cooking Method Ns As To Fat Eaten,Meats,209,7.28,33.67,0,0,56.44
+173428,Egg Yolk Dried,Dairy and Egg Products,669,59.13,33.63,0.66,0.66,3.08
+173834,Veal Shoulder Arm Separable Lean And Fat Cooked Braised,Meats,236,10.24,33.63,0,0,55.28
+169555,Beef Brisket Flat Half Separable Lean And Fat Trimmed To 0 Inch Fat Select Cooked Braised,Meats,205,6.77,33.59,0,0,59.38
+173896,Toasted Wheat Germ,Breakfast Cereals,382,10.7,29.1,49.6,34.5,5.6
+171653,Sun Country Kretschmer Honey Crunch Wheat Germ,Breakfast Cereals,372,7.78,26.55,58.11,47.91,3.4
+174656,Incaparina Dry Mix (Corn And Soy Flours) Unprepared,Breakfast Cereals,379,5.58,21.75,60.53,50.63,7.47
+785729,Cereal (Kellogg's Special K),Breakfast Cereals,377,1.79,17.79,73.4,72,3
+174635,Sun Country Kretschmer Toasted Wheat Bran,Breakfast Cereals,200,5.16,17.56,59.51,18.21,11.72
+174626,Quaker Oat Bran Quaker/mothers Oat Bran Dry,Breakfast Cereals,364,7.97,17.03,62.94,48.64,8.9
+173923,Quaker Weight Control Instant Oatmeal Banana Bread,Breakfast Cereals,361,6.16,16.5,64.42,51.82,9.04
+173926,Quaker Instant Oatmeal Weight Control Cinnamon,Breakfast Cereals,361,6.28,16.5,64.21,51.21,9.09
+173922,Quaker Weight Control Instant Oatmeal Maple And Brown Sugar,Breakfast Cereals,361,6.2,16.37,64.25,51.25,9.02
+171669,Quaker Quaker Puffed Wheat,Breakfast Cereals,366,2.15,16.26,76.39,66.99,3.69
+174660,Quaker Instant Oatmeal Organic Regular,Breakfast Cereals,367,6.3,16,67,57.2,8.8
+174639,Uncle Sam Cereal,Breakfast Cereals,346,11.6,15.98,65.78,45.48,4.43
+173913,Wheat Puffed Fortified,Breakfast Cereals,364,1.2,14.7,79.6,75.2,3
+172981,Health Valley Fiber 7 Flakes,Breakfast Cereals,353,1.41,14.44,78.15,64.05,3
+172989,Quaker Quick Oats Dry,Breakfast Cereals,371,6.87,13.7,68.18,58.78,9.37
+174640,Quaker Quick Oats With Iron Dry,Breakfast Cereals,371,6.87,13.7,68.18,58.78,9.38
+171646,Granola Homemade,Breakfast Cereals,489,24.31,13.67,53.88,44.98,5.84
+173904,Oats Regular And Quick Not Fortified Dry,Breakfast Cereals,379,6.52,13.15,67.7,57.6,10.84
+171665,Wheatena Dry,Breakfast Cereals,357,2.9,13.1,75.6,62.8,6.5
+167724,Millet Puffed,Breakfast Cereals,354,3.4,13,80,77.3,2.5
+172972,Quaker Quaker Multigrain Oatmeal Dry,Breakfast Cereals,334,2.73,12.64,72.62,60.72,10.35
+173884,General Mills Cheerios,Breakfast Cereals,372,6.6,12.4,73.2,63.1,3.76
+172974,Quaker Toasted Multigrain Crisps,Breakfast Cereals,372,5.11,12.38,74.9,64.7,4
+785703,Cereal (General Mills Cheerios Protein),Breakfast Cereals,378,5.08,12.26,76.19,69.09,3.49
+785574,Cereal Oat Nfs,Breakfast Cereals,376,6.73,12.09,73.23,63.83,5.13
+785593,Cereal (General Mills Cheerios),Breakfast Cereals,376,6.73,12.09,73.23,63.83,5.13
+785693,Cereal (Malt-O-Meal Toasted Oat Cereal),Breakfast Cereals,376,6.73,12.09,73.23,63.83,5.13
+173925,Quaker Oatmeal Real Medleys Cherry Pistachio Dry,Breakfast Cereals,394,11.02,12.02,66.73,59.63,6.59
+171661,Oats Instant Fortified Plain Dry,Breakfast Cereals,362,6.9,11.92,69.52,59.52,8.92
+173017,Natures Path Organic Flax Plus Flakes,Breakfast Cereals,350,5.46,11.91,75.27,58.67,3.4
+173903,Malt-O-Meal Original Plain Dry,Breakfast Cereals,365,0.7,11.8,77.25,75.15,10.35
+173911,Post Shredded Wheat Original Spoon-Size,Breakfast Cereals,351,2.1,11.8,81.4,69,3
+174641,Quaker Whole Wheat Natural Cereal Dry,Breakfast Cereals,333,2,11.8,74.8,64.9,9.8
+173010,Cream Of Wheat 1 Minute Cook Time Dry,Breakfast Cereals,359,1.47,11.77,72.63,68.23,11.41
+174655,Cream Of Wheat 2 1/2 Minute Cook Time Dry,Breakfast Cereals,355,1.41,11.61,71.79,67.39,11.56
+171658,Farina Enriched Assorted Brands Including Cream Of Wheat Quick (1-3 Minutes) Dry,Breakfast Cereals,360,1.41,11.6,73.19,68.99,11.08
+172986,Quaker Mothers Toasted Oat Bran Cereal,Breakfast Cereals,372,5.04,11.45,75.41,66.81,4
+169040,Weetabix Whole Grain Cereal,Breakfast Cereals,371,2.86,11.43,81.5,70.1,3
+174622,Quaker Oatmeal Squares,Breakfast Cereals,379,4.83,11.38,77.77,69.47,2.75
+173910,Post Shredded Wheat Original Big Biscuit,Breakfast Cereals,337,2.01,11.37,78.96,66.56,6.1
+171685,Quaker Oatmeal Real Medleys Summer Berry Dry,Breakfast Cereals,353,4.4,11.31,72.58,64.08,7.57
+173014,Quaker Oatmeal Squares Golden Maple,Breakfast Cereals,380,4.83,11.3,78.04,69.74,2.75
+173016,Quaker Instant Oatmeal Cinnamon Spice Reduced Sugar,Breakfast Cereals,358,6.11,11.26,69.45,60.65,8.45
+172987,Quaker Shredded Wheat Bagged Cereal,Breakfast Cereals,348,2.01,11.24,81.01,69.21,4.2
+174623,Quaker Oatmeal Squares Cinnamon,Breakfast Cereals,379,4.88,11.23,78.09,69.39,2.75
+174654,Natures Path Organic Flax Plus Pumpkin Granola,Breakfast Cereals,467,18.33,11.23,66.1,57.7,3
+171647,Post Grape-Nuts Cereal,Breakfast Cereals,361,1.81,11.22,80.49,67.49,3.5
+169075,Alpen,Breakfast Cereals,352,3.3,11.2,75.7,66.6,7.4
+171667,Whole Wheat Hot Natural Cereal Dry,Breakfast Cereals,342,2,11.2,75.2,65.7,9.9
+167715,Post Shredded Wheat N Bran Spoon-Size,Breakfast Cereals,339,2.06,10.93,80.65,65.95,3.14
+172994,Quaker Instant Grits Ham N Cheese Flavor Dry,Breakfast Cereals,355,4.68,10.73,71.08,66.88,6.82
+173893,Ralston Tasteeos,Breakfast Cereals,395,5.36,10.71,75.96,65.26,3.68
+171660,Cream Of Wheat Instant Dry,Breakfast Cereals,366,1.4,10.6,75.5,72.2,10.4
+171674,Malt-O-Meal Chocolate Dry,Breakfast Cereals,363,0.82,10.6,79.55,76.75,6.69
+173916,Farina Unenriched Dry,Breakfast Cereals,369,0.5,10.6,78,76.1,10.5
+174632,Quaker Mothers Cinnamon Oat Crunch,Breakfast Cereals,382,4.56,10.6,79.79,71.69,2.75
+173892,Quaker 100% Natural Granola Oats Wheat And Honey,Breakfast Cereals,421,11.62,10.55,73.65,63.45,2.19
+173901,Cream Of Wheat Regular 10 Minute Cooking Dry,Breakfast Cereals,370,1.5,10.5,76.5,72.7,10.9
+172998,Malt-O-Meal Farina Hot Wheat Cereal Dry,Breakfast Cereals,365,0.49,10.48,77.2,74.3,9.69
+174636,Quaker Instant Oatmeal Cinnamon-Spice Dry,Breakfast Cereals,369,5.1,10.39,74.52,66.32,7.37
+785669,Cereal (Kashi Heart To Heart Oat Flakes And Blueberry Clusters),Breakfast Cereals,376,3.79,10.39,80.3,72.9,3
+174662,Quaker Instant Oatmeal Apple And Cinnamon Reduced Sugar,Breakfast Cereals,358,5.64,10.29,72.17,62.47,7.94
+173002,Ralston Enriched Bran Flakes,Breakfast Cereals,390,3.36,10.21,79.77,62.87,2.53
+174661,Quaker Instant Oatmeal Fruit And Cream Variety Of Flavors Reduced Sugar,Breakfast Cereals,376,7.46,10.16,71.57,63.27,7.39
+173924,Quaker Oatmeal Real Medleys Peach Almond Dry,Breakfast Cereals,387,9.84,10.1,68.61,61.21,8.1
+167725,Oat Bran Flakes Health Valley,Breakfast Cereals,380,3,10,78,70,3.4
+171641,Post Alpha-Bits,Breakfast Cereals,389,4.6,10,80.3,73.2,1.2
+173891,Quaker Quaker Oat Life Plain,Breakfast Cereals,374,4.43,9.98,77.74,71.14,4.3
+173899,Quaker Instant Grits Country Bacon Flavor Dry,Breakfast Cereals,340,1.73,9.93,75.39,70.29,7.37
+173888,Post Bran Flakes,Breakfast Cereals,328,2.1,9.9,80.5,62.2,3.4
+785704,Cereal (General Mills Oatmeal Crisp With Almonds),Breakfast Cereals,390,6.69,9.89,78.09,69.89,2.9
+172992,Quaker Instant Grits Redeye Gravy & Country Ham Flavor Dry,Breakfast Cereals,342,1.58,9.83,75.86,71.26,7.06
+171683,Quaker Oatmeal Real Medleys Blueberry Hazelnut Dry,Breakfast Cereals,386,9.8,9.81,69.47,61.77,7.47
+169870,Post Great Grains Banana Nut Crunch,Breakfast Cereals,390,8.8,9.8,70.9,59.7,5.6
+172975,Quaker Quaker 100% Natural Granola With Oats Wheat Honey And Raisins,Breakfast Cereals,412,10.38,9.66,74.67,65.27,3.39
+171664,Oats Instant Fortified With Cinnamon And Spice Dry,Breakfast Cereals,369,4.84,9.53,76.08,68.08,6.92
+169076,Familia,Breakfast Cereals,388,6.3,9.5,73.8,65.3,1.9
+171648,Post Grape-Nuts Flakes,Breakfast Cereals,376,3.7,9.4,82,71.8,3.3
+173007,Quaker Quaker Honey Graham Life Cereal,Breakfast Cereals,373,4.14,9.33,78.56,72.26,4.3
+173920,Oats Instant Fortified Maple And Brown Sugar Dry,Breakfast Cereals,386,4.73,9.25,76.67,69.47,6.4
+174658,Quaker Natural Granola Apple Cranberry Almond,Breakfast Cereals,418,11.06,9.21,74.73,64.83,3.21
+173907,Quaker Instant Oatmeal Maple And Brown Sugar Dry,Breakfast Cereals,368,4.63,9.2,76.91,69.71,6.28
+174659,Quaker Maple Brown Sugar Life Cereal,Breakfast Cereals,373,4.06,9.17,78.86,72.56,4.3
+174620,Quaker Quaker Oat Cinnamon Life,Breakfast Cereals,374,4.1,9.14,79.02,72.72,4.3
+172991,Quaker Instant Oatmeal Raisin And Spice Dry,Breakfast Cereals,360,4,9.11,75.68,69.88,8.45
+173000,Malt-O-Meal Frosted Mini Spooners,Breakfast Cereals,354,1.94,9.09,81.81,70.91,5.5
+169862,Post Great Grains Crunchy Pecan Cereal,Breakfast Cereals,403,10.5,9,73,63.3,5.2
+785632,Cereal (General Mills Cheerios Frosted),Breakfast Cereals,376,4.69,9,79.8,72.3,2.2
+785643,Cereal Granola,Breakfast Cereals,381,5.2,9,80.1,72.7,3.8
+785646,Cereal (Kellogg's Low Fat Granola With Raisins),Breakfast Cereals,381,5.2,9,80.1,72.7,3.8
+173898,Quaker Corn Grits Instant Cheddar Cheese Flavor Dry,Breakfast Cereals,363,5.46,8.98,72.96,68.76,6.71
+174638,Quaker Instant Oatmeal Banana Bread Dry,Breakfast Cereals,368,4.85,8.97,75.7,69,6.77
+785575,Cereal Ready-To-Eat Nfs,Breakfast Cereals,374,4.86,8.92,79.48,72.68,4.1
+173005,Post Great Grains Cranberry Almond Crunch,Breakfast Cereals,384,5.9,8.9,76.6,65.5,6.2
+785659,Cereal (General Mills Cheerios Honey Nut),Breakfast Cereals,376,5,8.85,79.69,72.59,2.86
+785689,Cereal (Malt-O-Meal Honey Nut Toasty O's),Breakfast Cereals,376,5,8.85,79.69,72.59,2.86
+172999,Malt-O-Meal Maple & Brown Sugar Hot Wheat Cereal Dry,Breakfast Cereals,368,0.47,8.82,80.52,78.72,5.9
+174625,Quaker Instant Oatmeal Raisins Dates And Walnuts Dry,Breakfast Cereals,371,6.98,8.82,72.41,65.51,8.35
+171678,Malt-O-Meal Blueberry Mini Spooners,Breakfast Cereals,350,1.92,8.81,79.4,69.1,4.4
+171670,Corn Grits Yellow Regular And Quick Unenriched Dry,Breakfast Cereals,371,1.2,8.8,79.6,78,10
+172993,Quaker Instant Grits Product With American Cheese Flavor Dry,Breakfast Cereals,360,4.67,8.8,74.18,69.88,6.8
+174629,Quaker Hominy Grits White Quick Dry,Breakfast Cereals,348,1.2,8.8,79.6,74.8,10
+174630,Quaker Hominy Grits White Regular Dry,Breakfast Cereals,361,1.6,8.8,79.2,77.6,10
+785585,Cereal (General Mills Cheerios Berry Burst),Breakfast Cereals,378,4.5,8.8,80.5,72.9,2.04
+171682,Quaker Instant Oatmeal Cinnamon Swirl High Fiber,Breakfast Cereals,366,4.8,8.79,75.67,53.37,7.52
+785645,Cereal (Kellogg's Low Fat Granola),Breakfast Cereals,389,5.7,8.7,80.9,73.9,3.5
+785732,Cereal (Kellogg's Special K Low Fat Granola),Breakfast Cereals,389,5.7,8.7,80.9,73.9,3.5
+174637,Quaker Instant Oatmeal Dinosaur Eggs Brown Sugar Dry,Breakfast Cereals,384,7.59,8.69,73.68,67.28,6.87
+171663,Quaker Instant Oatmeal Apples And Cinnamon Dry,Breakfast Cereals,366,4.61,8.62,76.74,68.44,6.62
+174644,Moms Best Honey Nut Toasty Os,Breakfast Cereals,388,4.51,8.6,79.84,73.54,2.5
+785697,Cereal Muesli,Breakfast Cereals,355,5.4,8.6,74.9,67.2,10
+171681,Malt-O-Meal Honey Nut Scooters,Breakfast Cereals,387,4.51,8.59,79.62,73.32,2.5
+173894,Post Honey Nut Shredded Wheat,Breakfast Cereals,373,2.9,8.5,83.6,72.9,3
+174653,Post Selects Maple Pecan Crunch,Breakfast Cereals,413,8.7,8.5,77.4,70,3
+785702,Cereal (General Mills Cheerios Oat Cluster Crunch),Breakfast Cereals,378,4.6,8.5,80.7,73.7,2.6
+785705,Cereal (General Mills Oatmeal Crisp With Raisins),Breakfast Cereals,372,3.79,8.5,80.8,73.3,4.69
+785710,Cereal (Kellogg's Product 19),Breakfast Cereals,374,1.3,8.5,84.3,81.5,3.5
+172976,Quaker Low Fat 100% Natural Granola With Raisins,Breakfast Cereals,388,5.52,8.42,80.57,70.97,3.4
+174624,Quaker Instant Oatmeal Fruit And Cream Variety Dry,Breakfast Cereals,379,6.37,8.3,75.42,69.42,6.56
+785579,Cereal (General Mills Cheerios Apple Cinnamon),Breakfast Cereals,386,6.09,8.3,79.9,72.6,2.29
+785698,Cereal (General Mills Cheerios Multigrain),Breakfast Cereals,370,4.09,8.3,81.4,72.7,2.5
+171684,Quaker Oatmeal Real Medleys Apple Walnut Dry,Breakfast Cereals,390,10.36,8.18,70.53,63.53,7.8
+173927,Moms Best Sweetened Wheat-Fuls,Breakfast Cereals,373,1.83,8.18,80.91,70.91,6
+172977,Quaker Instant Grits Butter Flavor Dry,Breakfast Cereals,369,5.64,8.12,74.83,70.13,6.59
+169041,Post Great Grains Raisin Date & Pecan,Breakfast Cereals,378,7.1,7.9,74.3,65,8.5
+173015,Post Honey Bunches Of Oats With Vanilla Bunches,Breakfast Cereals,394,5.1,7.9,81.8,74,3
+785699,Cereal (Nature Valley Granola),Breakfast Cereals,381,4.69,7.9,79.4,74.4,5.59
+171680,Malt-O-Meal Oat Blenders With Honey & Almonds,Breakfast Cereals,379,4.88,7.8,77.26,71.16,3.1
+173918,Post Shredded Wheat Lightly Frosted Spoon-Size,Breakfast Cereals,352,1.9,7.8,83.8,74.2,6
+169859,Post Honey Bunches Of Oats With Almonds,Breakfast Cereals,409,7.3,7.7,79.6,74.1,2.9
+785602,Cereal (General Mills Honey Nut Clusters),Breakfast Cereals,374,2,7.7,85.2,78.9,2.35
+785676,Cereal (General Mills Lucky Charms),Breakfast Cereals,380,5.02,7.67,80.89,75.89,4.15
+171654,Corn Grits White Regular And Quick Enriched Dry,Breakfast Cereals,370,1.75,7.65,79.09,74.49,10.92
+172996,Malt-O-Meal Raisin Bran Cereal,Breakfast Cereals,342,1.87,7.63,80.37,70.17,7.5
+173921,Quaker Whole Hearts Oat Cereal,Breakfast Cereals,376,5.61,7.63,80.1,71,2.75
+172985,Quaker Mothers Peanut Butter Bumpers Cereal,Breakfast Cereals,407,7.33,7.62,79.68,77.18,2.5
+171650,Post Raisin Bran Cereal,Breakfast Cereals,324,1.6,7.6,78.9,65.2,8.6
+785610,Cereal Corn Flakes,Breakfast Cereals,357,0.4,7.5,84.1,80.8,3.76
+785611,Cereal (Kellogg's Corn Flakes),Breakfast Cereals,357,0.4,7.5,84.1,80.8,3.76
+785728,Cereal (Kellogg's Smart Start Strong),Breakfast Cereals,371,1.5,7.5,86.8,81.4,2.5
+173018,Barbaras Puffins Original,Breakfast Cereals,333,3.7,7.41,84,65.5,3.59
+171656,Quaker Corn Grits Instant Plain Dry,Breakfast Cereals,343,2.14,7.31,78.42,74.22,7.2
+168138,Post Honey Bunches Of Oats Honey Roasted,Breakfast Cereals,401,5.46,7.12,81.19,76.99,5
+169039,Frosted Oat Cereal With Marshmallows,Breakfast Cereals,400,3.33,7.1,84.7,80.4,2.8
+169077,Wheat And Bran Presweetened With Nuts And Fruits,Breakfast Cereals,385,5.6,7.1,76.2,66.5,8.5
+171644,Quaker Capn Crunchs Peanut Butter Crunch,Breakfast Cereals,417,9.23,7.1,78.65,75.95,2.5
+173020,Post Honey Bunches Of Oats With Cinnamon Bunches,Breakfast Cereals,400,5,7.1,82.8,77,2.8
+171651,Quaker Quaker Puffed Rice,Breakfast Cereals,383,0.9,7.01,87.78,86.38,3.91
+174663,Post Honey Bunches Of Oats Pecan Bunches,Breakfast Cereals,399,5.4,7,82,76.8,2.9
+173909,Malt-O-Meal Marshmallow Mateys,Breakfast Cereals,387,3.53,6.94,82.77,77.87,2.19
+785730,Cereal (Kellogg's Special K Blueberry),Breakfast Cereals,363,1.5,6.9,86.3,77.7,3.5
+785657,Cereal (Kellogg's Honey Crunch Corn Flakes),Breakfast Cereals,385,1.9,6.8,87,83.6,3
+785721,Cereal (General Mills Reese's Puffs),Breakfast Cereals,413,11.1,6.8,75.6,70.9,2.6
+171679,Malt-O-Meal Oat Blenders With Honey,Breakfast Cereals,396,4.17,6.78,84.94,79.94,3
+785684,Cereal (Malt-O-Meal Crispy Rice),Breakfast Cereals,381,2.05,6.75,85.05,84.65,5.06
+785724,Cereal (Kellogg's Rice Krispies),Breakfast Cereals,381,2.05,6.75,85.05,84.65,5.06
+173019,Post Honey Bunches Of Oats With Real Strawberries,Breakfast Cereals,399,4.9,6.7,83.3,77.9,2.9
+173887,Ralston Crisp Rice,Breakfast Cereals,383,1.26,6.69,86.22,85.52,3.62
+785583,Cereal (General Mills Basic 4),Breakfast Cereals,358,4,6.69,79.09,69.99,6.25
+785617,Cereal Crispy Brown Rice,Breakfast Cereals,394,1.26,6.69,86.22,85.52,3.62
+785723,Cereal Rice Flakes,Breakfast Cereals,394,1.26,6.69,86.22,85.52,3.62
+785756,Cereal (General Mills Cheerios Yogurt Burst),Breakfast Cereals,400,5.23,6.67,81.75,75.05,2.23
+174628,Post Waffle Crisp,Breakfast Cereals,390,5,6.6,83,78.6,2.5
+785616,Cereal (Kellogg's Crispix),Breakfast Cereals,378,0.8,6.59,87.19,86.19,3
+173919,Post Selects Blueberry Morning,Breakfast Cereals,395,5.3,6.5,81.6,76.9,4.7
+785606,Cereal (General Mills 25% Less Sugar Cocoa Puffs),Breakfast Cereals,380,5.19,6.5,82.69,75.99,1.79
+173890,Quaker King Vitaman,Breakfast Cereals,381,3.44,6.41,83.85,80.45,3.35
+785609,Cereal (General Mills Chex Corn),Breakfast Cereals,370,2.4,6.4,85,80.3,2.5
+785722,Cereal (General Mills Chex Rice),Breakfast Cereals,375,1.89,6.4,85.09,83.09,2.59
+173886,Quaker Quaker Crunchy Bran,Breakfast Cereals,331,4.06,6.37,83.68,68.38,2.5
+173900,Cream Of Rice Dry,Breakfast Cereals,370,0.5,6.3,82.4,81.7,10.5
+173912,Rice Puffed Fortified,Breakfast Cereals,402,0.5,6.3,89.8,88.1,3
+785658,Cereal (General Mills Chex Honey Nut),Breakfast Cereals,375,2,6.3,86.67,82.77,2.2
+785584,Cereal (General Mills Kix Berry Berry),Breakfast Cereals,376,4.19,6.19,83.9,78.1,2.09
+172983,Malt-O-Meal Crispy Rice,Breakfast Cereals,346,1.12,6.07,86.4,86,3.4
+173889,Post Honeycomb Cereal,Breakfast Cereals,394,2.93,6.01,86.63,83.43,1.5
+174649,Ralston Crispy Hexagons,Breakfast Cereals,379,0.95,5.94,86.78,85.28,4.07
+174648,Ralston Corn Flakes,Breakfast Cereals,384,0.91,5.9,88.01,85.31,3.31
+173003,Ralston Corn Biscuits,Breakfast Cereals,376,1.05,5.83,85.79,83.19,3.59
+785596,Cereal (General Mills Cheerios Chocolate),Breakfast Cereals,380,5.09,5.8,83.5,77.3,2.2
+785640,Cereal (General Mills Cheerios Fruity),Breakfast Cereals,381,4.59,5.8,84.19,78.29,2.2
+174643,Malt-O-Meal Golden Puffs,Breakfast Cereals,370,0.89,5.77,89.72,87.12,2.76
+785661,Cereal (Kellogg's Honey Smacks),Breakfast Cereals,380,2.2,5.7,88.5,83.5,2.9
+785692,Cereal (Malt-O-Meal Golden Puffs),Breakfast Cereals,380,2.2,5.7,88.5,83.5,2.9
+785753,Cereal Puffed Wheat Sweetened,Breakfast Cereals,380,2.2,5.7,88.5,83.5,2.9
+785599,Cereal (Kellogg's Cinnabon),Breakfast Cereals,410,7.3,5.69,83.3,79.4,2.5
+785605,Cereal (General Mills Cocoa Puffs),Breakfast Cereals,383,5.2,5.6,83.7,78,1.8
+785598,Cereal (General Mills Lucky Charms Chocolate),Breakfast Cereals,381,4.4,5.59,84.4,79.1,2.29
+785740,Cereal (Kellogg's Frosted Flakes Reduced Sugar),Breakfast Cereals,357,0.4,5.59,87.3,77.2,3
+171652,Post Golden Crisp,Breakfast Cereals,380,1.7,5.5,90.1,85.1,1.4
+785465,Oatmeal Regular Or Quick Made With Milk Fat Not Added In Cooking,Breakfast Cereals,115,3.15,5.5,16.25,14.55,73.92
+785582,Cereal (General Mills Cheerios Banana Nut),Breakfast Cereals,375,4,5.5,84.69,78.59,2.2
+785587,Cereal (General Mills Boo Berry),Breakfast Cereals,386,4.3,5.5,85.4,81.2,1.89
+785629,Cereal (General Mills Frankenberry),Breakfast Cereals,386,4.3,5.5,85.4,81.2,1.89
+785600,Cereal (General Mills Cinnamon Toast Crunch),Breakfast Cereals,410,10.25,5.45,77.99,71.19,3.24
+785464,Oatmeal Regular Or Quick Made With Milk Ns As To Fat Added In Cooking,Breakfast Cereals,126,4.59,5.41,15.97,14.27,72.83
+785466,Oatmeal Regular Or Quick Made With Milk Fat Added In Cooking,Breakfast Cereals,126,4.59,5.41,15.97,14.27,72.83
+785613,Cereal (General Mills Count Chocula),Breakfast Cereals,383,4.69,5.4,84.5,79.5,1.89
+785745,Cereal (General Mills 25% Less Sugar Trix),Breakfast Cereals,383,4,5.4,85.5,81.2,2
+785642,Cereal (General Mills Golden Grahams),Breakfast Cereals,374,3.2,5.3,85.1,79.5,2.2
+785678,Cereal (Malt-O-Meal Blueberry Muffin Tops),Breakfast Cereals,374,3.2,5.3,85.1,79.5,2.2
+785688,Cereal (Malt-O-Meal Honey Graham Squares),Breakfast Cereals,374,3.2,5.3,85.1,79.5,2.2
+785607,Cereal (General Mills Cookie Crisp),Breakfast Cereals,380,4.4,5.2,84.5,79.4,2.3
+785595,Cereal (General Mills Chex Cinnamon),Breakfast Cereals,403,6.59,5,82.4,80,2.31
+172997,Malt-O-Meal Blueberry Muffin Tops Cereal,Breakfast Cereals,443,11.48,4.9,79.91,75.21,1.1
+170895,Egg White Powder,Dairy and Egg Products,357,0.32,84.08,4.51,4.51,5.48
+173427,Egg White Dried Powder Stabilized Glucose Reduced,Dairy and Egg Products,376,0.04,82.4,4.47,4.47,8.54
+172204,Egg White Dried,Dairy and Egg Products,382,0,81.1,7.8,7.8,5.8
+173426,Egg White Dried Flakes Stabilized Glucose Reduced,Dairy and Egg Products,351,0.04,76.92,4.17,4.17,14.62
+173429,Egg Substitute Powder,Dairy and Egg Products,444,13,55.5,21.8,21.8,3.86
+173460,Protein Supplement Milk Based Muscle Milk Light Powder,Dairy and Egg Products,396,12,50,22,20,12
+173425,Egg Whole Dried Stabilized Glucose Reduced,Dairy and Egg Products,615,43.95,48.17,2.38,2.38,1.87
+172188,Dried Eggs,Dairy and Egg Products,592,43.9,48.05,1.13,1.13,2.78
+173459,Protein Supplement Milk Based Muscle Milk Powder,Dairy and Egg Products,411,17.14,45.71,18.5,11.4,15
+167705,Grated Parmesan Cheese (Low-Sodium),Dairy and Egg Products,451,29.99,41.6,3.7,3.7,22.2
+172206,Parmesan Cheese Topping Fat Free,Dairy and Egg Products,370,5,40,40,40,8.6
+173431,Shredded Parmesan,Dairy and Egg Products,415,27.34,37.86,3.41,3.41,25
+170877,Milk Dry Nonfat Regular Without Added Vitamin A And Vitamin D,Dairy and Egg Products,362,0.77,36.16,51.98,51.98,3.16
+172195,Milk Dry Nonfat Regular With Added Vitamin A And Vitamin D,Dairy and Egg Products,362,0.77,36.16,51.98,51.98,3.16
+169897,Beverage Instant Breakfast Powder Chocolate Sugar-Free Not Reconstituted,Dairy and Egg Products,358,5.1,35.8,41,39,7.4
+170848,Grated Parmesan (Hard),Dairy and Egg Products,392,25,35.75,3.22,3.22,30
+171273,Milk Dry Nonfat Calcium Reduced,Dairy and Egg Products,354,0.2,35.5,51.8,51.8,4.9
+171272,Milk Dry Nonfat Instant With Added Vitamin A And Vitamin D,Dairy and Egg Products,358,0.72,35.1,52.19,52.19,3.96
+172196,Milk Dry Nonfat Instant Without Added Vitamin A And Vitamin D,Dairy and Egg Products,358,0.72,35.1,52.19,52.19,3.96
+171274,Milk Buttermilk Dried,Dairy and Egg Products,387,5.78,34.3,49,49,2.97
+173428,Egg Yolk Dried,Dairy and Egg Products,669,59.13,33.63,0.66,0.66,3.08
+171295,Cheddar Cheese (Non-Fat Or Fat Free),Dairy and Egg Products,157,0,32.14,7.14,7.14,57
+171249,Romano Cheese,Dairy and Egg Products,387,26.94,31.8,3.63,3.63,30.91
+169051,Mozzarella Cheese (Non-Fat Or Fat Free),Dairy and Egg Products,141,0,31.7,3.5,1.7,60.2
+172197,Hard Goat Cheese,Dairy and Egg Products,452,35.59,30.52,2.17,2.17,29.01
+171242,Gruyere Cheese,Dairy and Egg Products,413,32.34,29.81,0.36,0.36,33.19
+171247,Grated Parmesan,Dairy and Egg Products,420,27.84,28.42,13.91,13.91,22.65
+168124,Cheese Swiss Low Sodium,Dairy and Egg Products,374,27.4,28.4,3.4,3.4,37.8
+168141,Cheese Swiss Low Fat,Dairy and Egg Products,179,5.1,28.4,3.4,3.4,59.6
+170897,Fatfree Swiss Cheese,Dairy and Egg Products,127,0,28.4,3.4,3.4,63.6
+168098,Cheese Monterey Low Fat,Dairy and Egg Products,313,21.6,28.2,0.7,0.7,46
+167735,Cheese Mozzarella Low Sodium,Dairy and Egg Products,280,17.1,27.5,3.1,3.1,49.9
+171292,Cheese Cheddar Reduced Fat,Dairy and Egg Products,316,20.41,27.35,2.67,2.67,44.29
+171251,Swiss Cheese,Dairy and Egg Products,393,30.99,26.96,1.44,1.44,37.63
+170876,Dehydrated Milk,Dairy and Egg Products,496,26.71,26.32,38.42,38.42,2.47
+173454,Milk Dry Whole Without Added Vitamin D,Dairy and Egg Products,496,26.71,26.32,38.42,38.42,2.47
+170843,Fontina Cheese,Dairy and Egg Products,389,31.14,25.6,1.55,1.55,37.92
+170850,Provolone Cheese,Dairy and Egg Products,351,26.62,25.58,2.14,2.14,40.95
+173413,Caraway Cheese,Dairy and Egg Products,376,29.2,25.18,3.06,3.06,39.28
+168089,Imitation Cheese American Or Cheddar Low Cholesterol,Dairy and Egg Products,390,32,25,1,1,38
+173419,Edam Cheese,Dairy and Egg Products,357,28.57,24.99,1.43,1.43,41
+171241,Gouda Cheese,Dairy and Egg Products,356,27.44,24.94,2.22,2.22,41.46
+170855,Processed Swiss Cheese,Dairy and Egg Products,334,25.01,24.73,2.1,2.1,42.31
+169050,Cheese Muenster Low Fat,Dairy and Egg Products,271,17.6,24.7,3.5,3.5,50.5
+172215,Low Fat Provolone,Dairy and Egg Products,274,17.6,24.7,3.5,3.5,50.6
+172216,Cheese Mexican Blend Reduced Fat,Dairy and Egg Products,282,19.4,24.69,3.41,3.41,48.2
+169080,Cheese Pasteurized Process American Low Fat,Dairy and Egg Products,180,7,24.6,3.5,3.5,58.9
+172222,Cheese Dry White Queso Seco,Dairy and Egg Products,325,24.35,24.51,2.04,2.04,42.17
+170844,Monterey Cheese,Dairy and Egg Products,373,30.28,24.48,0.68,0.68,41.01
+170852,Tilsit Cheese,Dairy and Egg Products,340,25.98,24.41,1.88,1.88,42.86
+173439,Lowfat Cheddar Cheese,Dairy and Egg Products,173,7,24.35,1.91,1.91,63.1
+173440,Low-Sodium Cheddar Cheese,Dairy and Egg Products,398,32.62,24.35,1.91,1.91,38.98
+170847,Mozzarella (Lowfat),Dairy and Egg Products,254,15.92,24.26,2.77,2.77,53.78
+170899,Sharp Cheddar Cheese,Dairy and Egg Products,410,33.82,24.25,2.13,2.13,36.15
+170849,Port De Salut Cheese,Dairy and Egg Products,352,28.2,23.78,0.57,0.57,45.45
+173416,Colby Cheese,Dairy and Egg Products,394,32.11,23.76,2.57,2.57,38.2
+171244,Mozzarella (Hard And Lowfat),Dairy and Egg Products,295,19.78,23.75,5.58,5.58,47.07
+170900,Cheese Mozzarella Low Moisture Part-Skim Shredded,Dairy and Egg Products,304,19.72,23.63,8.06,8.06,44.81
+171288,Mexican Blend Cheese,Dairy and Egg Products,384,32.14,23.54,0.13,0.13,40.48
+171245,Muenster Cheese,Dairy and Egg Products,368,30.04,23.41,1.12,1.12,41.77
+173415,Chesire Cheese,Dairy and Egg Products,387,30.6,23.37,4.78,4.78,37.65
+172176,Brick Cheese,Dairy and Egg Products,371,29.68,23.24,2.79,2.79,41.11
+173414,Cheddar Cheese,Dairy and Egg Products,403,33.31,22.87,3.37,3.37,36.75
+173447,Kraft Free Singles American Nonfat Pasteurized Process Cheese Product,Dairy and Egg Products,148,1,22.7,11.7,11.5,58
+173437,Cheese Mexican Queso Asadero,Dairy and Egg Products,356,25,22.6,4.13,4.13,44.16
+168121,Cheese Pasteurized Process Cheddar Or American Low Sodium,Dairy and Egg Products,376,31.19,22.2,1.6,1.6,42.8
+170845,Mozzarella,Dairy and Egg Products,299,22.14,22.17,2.4,2.4,50.01
+170854,Processed Pimento Cheese,Dairy and Egg Products,375,31.2,22.13,1.73,1.63,39.08
+171253,Cheese Food Pasteurized Process Swiss,Dairy and Egg Products,323,24.14,21.92,4.5,4.5,43.67
+170846,Mozzarella (Hard),Dairy and Egg Products,318,24.64,21.6,2.47,2.47,48.38
+173433,Cheese Goat Semisoft Type,Dairy and Egg Products,364,29.84,21.58,0.12,0.12,45.52
+173438,Queso Chihuahua,Dairy and Egg Products,374,29.68,21.56,5.56,5.56,39.13
+171250,Roquefort,Dairy and Egg Products,369,30.64,21.54,2,2,39.38
+172201,Cheese Mexican Queso Anejo,Dairy and Egg Products,373,29.98,21.44,4.63,4.63,38.06
+172175,Blue Cheese,Dairy and Egg Products,353,28.74,21.4,2.34,2.34,42.41
+170863,Nonfat American Cheese,Dairy and Egg Products,126,0,21.05,10.53,10.53,65.47
+172177,Brie Cheese,Dairy and Egg Products,334,27.68,20.75,0.45,0.45,48.42
+172224,Queso Blanco,Dairy and Egg Products,310,24.31,20.38,2.53,2.53,48.7
+171243,Limburger Cheese,Dairy and Egg Products,327,27.25,20.05,0.49,0.49,48.42
+170898,Queso Cotija,Dairy and Egg Products,366,30,20,3.97,3.97,38
+173452,Cheese Parmesan Dry Grated Reduced Fat,Dairy and Egg Products,265,20,20,1.37,1.37,50.6
+169073,Beverage Instant Breakfast Powder Chocolate Not Reconstituted,Dairy and Egg Products,353,1.4,19.9,66.2,65.8,7.4
+172178,Camambert,Dairy and Egg Products,300,24.26,19.8,0.46,0.46,51.8
+170856,Cold Pack American Cheese,Dairy and Egg Products,331,24.46,19.66,8.32,8.32,43.12
+173449,Kraft Velveeta Light Reduced Fat Pasteurized Process Cheese Product,Dairy and Egg Products,222,10.6,19.6,11.8,11.8,51.3
+173435,Soft Goat Cheese,Dairy and Egg Products,264,21.08,18.52,0,0,60.75
+170853,Processed American Cheese (With Vitamin D),Dairy and Egg Products,366,30.71,18.13,4.78,4.78,39.61
+171290,Cheese Pasteurized Process American Without Added Vitamin D,Dairy and Egg Products,371,31.79,18.13,3.7,3.7,39.61
+172223,Queso Fresco,Dairy and Egg Products,299,23.82,18.09,2.98,2.98,51.42
+173455,Cheese Product Pasteurized Process American Reduced Fat Fortified With Vitamin D,Dairy and Egg Products,240,14.1,17.6,10.6,10.6,51.8
+171252,American Cheese,Dairy and Egg Products,330,25.63,16.86,8.56,8.56,44
+171291,Cheese Food Pasteurized Process American Without Added Vitamin D,Dairy and Egg Products,330,25.63,16.86,8.56,8.56,44
+169901,Cheese American Cheddar Imitation,Dairy and Egg Products,239,14,16.7,11.6,11.6,53.1
+171254,American Cheese Spread,Dairy and Egg Products,290,21.23,16.41,8.73,8.73,47.65
+173446,Kraft Cheez Whiz Light Pasteurized Process Cheese Product,Dairy and Egg Products,215,9.5,16.3,16.2,16,51.5
+173448,Kraft Velveeta Pasteurized Process Cheese Spread,Dairy and Egg Products,303,22,16.3,9.8,9.8,45.8
+171289,Cheese Product Pasteurized Process American Vitamin D Fortified,Dairy and Egg Products,307,23.06,16.09,8.85,8.85,45.07
+172184,Egg Yolks (Raw),Dairy and Egg Products,322,26.54,15.86,3.59,3.59,52.31
+172207,Fat Free Cream Cheese,Dairy and Egg Products,105,1,15.69,7.66,7.66,71.87
+173421,Egg Yolk Raw Frozen Pasteurized,Dairy and Egg Products,296,25.6,15.53,0.81,0.81,56.44
+173420,Feta Cheese,Dairy and Egg Products,265,21.49,14.21,3.88,3.88,55.22
+173436,Egg Yolk Raw Frozen Salted Pasteurized,Dairy and Egg Products,275,22.93,14.07,1.77,1.77,50.87
+172190,Egg Goose Whole Fresh Raw,Dairy and Egg Products,185,13.27,13.87,1.35,1.35,70.43
+173422,Egg Yolk Raw Frozen Sugared Pasteurized,Dairy and Egg Products,307,22.82,13.87,10.95,10.95,51.23
+172192,Egg Turkey Whole Fresh Raw,Dairy and Egg Products,171,11.88,13.68,1.15,1.15,72.5
+173423,Fried Eggs,Dairy and Egg Products,196,14.84,13.61,0.83,0.83,69.47
+170896,Cheese Spread American Or Cheddar Cheese Base Reduced Fat,Dairy and Egg Products,176,8.88,13.41,10.71,10.71,61.82
+169904,Eggs Scrambled Frozen Mixture,Dairy and Egg Products,131,5.6,13.1,7.5,7.5,72.7
+172191,Egg Quail Whole Fresh Raw,Dairy and Egg Products,158,11.09,13.05,0.41,0.41,74.35
+171283,Dried Sweet Whey Powder,Dairy and Egg Products,353,1.07,12.93,74.46,74.46,3.19
+172189,Egg Duck Whole Fresh Raw,Dairy and Egg Products,185,13.77,12.81,1.45,1.45,70.83
+173424,Hard Boiled Eggs,Dairy and Egg Products,155,10.61,12.58,1.12,1.12,74.62
+171287,Eggs (Raw),Dairy and Egg Products,143,9.51,12.56,0.72,0.72,76.15
+172186,Poached Eggs,Dairy and Egg Products,143,9.47,12.51,0.71,0.71,75.85
+167703,Cheese Cottage Lowfat 1% Milkfat Lactose Reduced,Dairy and Egg Products,74,1,12.4,3.2,2.6,82.5
+168114,Cheese Cottage Lowfat 1% Milkfat No Sodium Added,Dairy and Egg Products,72,1,12.4,2.7,2.7,83.5
+173417,Lowfat Cottage Cheese (1%),Dairy and Egg Products,72,1.02,12.39,2.72,2.72,82.48
+172202,Egg Whole Raw Frozen Pasteurized,Dairy and Egg Products,147,9.95,12.33,1.01,1.01,75.81
+172209,Kraft Cheez Whiz Pasteurized Process Cheese Sauce,Dairy and Egg Products,276,21,12,9.2,8.9,51.5
+171281,Dried Whey Powder (Acid),Dairy and Egg Products,339,0.54,11.73,73.45,73.45,3.51
+172198,Cheese Substitute Mozzarella,Dairy and Egg Products,248,12.22,11.47,23.67,23.67,47.36
+171248,Lowfat Ricotta,Dairy and Egg Products,138,7.91,11.39,5.14,5.14,74.41
+172179,Cottage Cheese (Blended),Dairy and Egg Products,98,4.3,11.12,3.38,3.38,79.79
+170893,Egg Whole Raw Frozen Salted Pasteurized,Dairy and Egg Products,138,10.07,10.97,0.83,0.83,67.83
+167716,Cheese Cottage Lowfat 1% Milkfat With Vegetables,Dairy and Egg Products,67,1,10.9,3,3,83.5
+169078,Cheese Cottage With Vegetables,Dairy and Egg Products,95,4.2,10.9,3,2.9,80.3
+172183,Egg Whites (Raw),Dairy and Egg Products,52,0.17,10.9,0.73,0.73,87.57
+172180,Cottage Cheese (Blended With Fruit),Dairy and Egg Products,97,3.85,10.69,4.61,4.41,79.64
+172185,Egg Omelet,Dairy and Egg Products,154,11.66,10.57,0.64,0.64,76.13
+172182,Lowfat Cottage Cheese (2%),Dairy and Egg Products,81,2.27,10.45,4.76,4.76,81.24
+172181,Nonfat Cottage Cheese,Dairy and Egg Products,72,0.29,10.34,6.66,6.66,81.01
+172200,Cheese Sauce Prepared From Recipe,Dairy and Egg Products,197,14.92,10.33,5.48,5.38,66.86
+172203,Egg White Raw Frozen Pasteurized,Dairy and Egg Products,48,0,10.2,1.04,1.04,88.17
+170894,Nonfat Greek Yogurt,Dairy and Egg Products,59,0.39,10.19,3.6,3.6,85.1
+173462,Egg Substitute Liquid Or Frozen Fat Free,Dairy and Egg Products,48,0,10,2,2,87
+172187,Scrambled Eggs,Dairy and Egg Products,149,10.98,9.99,1.61,1.61,76.4
+170903,Lowfat Greek Yogurt,Dairy and Egg Products,73,1.92,9.95,3.94,3.94,83.56
+171240,Gjetost Cheese,Dairy and Egg Products,466,29.51,9.65,42.65,42.65,13.44
+171246,Neufchatel Cheese,Dairy and Egg Products,253,22.78,9.15,3.59,3.59,63.11
+171296,Yogurt Greek Nonfat Vanilla Chobani,Dairy and Egg Products,71,0.22,9.07,8.09,7.79,82.03
+171304,Greek Yogurt (Plain),Dairy and Egg Products,97,5,9,3.98,3.98,81.3
+170902,Nonfat Greek Vanilla Yogurt,Dairy and Egg Products,78,0.18,8.64,10.37,9.87,80.26
+173290,Pizza Hut 14 Inch Cheese Pizza Hand-Tossed Crust,Fast Foods,275,10.42,11.98,33.42,31.02,41.48
+173280,Pizza Hut 12 Inch Pepperoni Pizza Pan Crust,Fast Foods,298,14.21,11.97,30.49,28.69,40.8
+173285,Papa Johns 14 Inch Pepperoni Pizza Original Crust,Fast Foods,275,11.86,11.97,30.04,28.84,43.6
+172084,Cheeseburger; Double Regular Patty; Double Decker Bun With Condiments And Special Sauce,Fast Foods,261,14.1,11.94,21.53,20.13,50.54
+170776,McDonalds Southern Style Chicken Biscuit,Fast Foods,304,14.93,11.93,30.56,29.16,39.4
+172040,Pizza Hut 12 Inch Cheese Pizza Hand-Tossed Crust,Fast Foods,271,10.89,11.93,31.22,29.42,43.29
+173268,Biscuit With Crispy Chicken Fillet,Fast Foods,300,14.93,11.93,30.56,29.16,39.4
+783417,Beef Sandwich Nfs,Fast Foods,190,7.33,11.93,18.68,18.08,60.13
+783518,Roast Beef Submarine Sandwich With Cheese Lettuce Tomato And Spread,Fast Foods,190,7.33,11.93,18.68,18.08,60.13
+783624,Sausage And Spaghetti Sauce Sandwich,Fast Foods,254,13.74,11.93,19.67,18.67,52.7
+170769,Pizza Hut 14 Inch Sausage Pizza Hand-Tossed Crust,Fast Foods,287,13.5,11.92,29.39,27.09,42.57
+170373,Pizza Cheese Topping Thin Crust Frozen Cooked,Fast Foods,263,11.07,11.91,28.8,25.8,46.01
+783530,Gyro Sandwich (Pita Bread Beef Lamb Onion Condiments) With Tomato And Spread,Fast Foods,167,4.77,11.91,18.44,17.44,63.94
+783574,Chicken Patty Sandwich With Cheese On Wheat Bun With Lettuce Tomato And Spread,Fast Foods,254,12.68,11.9,24.57,21.47,47.77
+172030,Biscuit With Ham,Fast Foods,342,16.3,11.85,38.75,38.05,28.4
+783613,Bologna And Cheese Sandwich With Spread,Fast Foods,302,16.03,11.83,27.09,25.79,41.67
+170720,McDonalds Big Mac,Fast Foods,257,14.96,11.82,20.08,18.48,51.3
+783615,Pig In A Blanket Frankfurter Or Hot Dog Wrapped In Dough,Fast Foods,324,21.9,11.82,19.37,18.67,44.22
+170733,Taco Bell Soft Taco With Steak,Fast Foods,225,12.1,11.81,17.22,15.62,56.82
+783550,Ham And Cheese Sandwich On Bun With Lettuce And Spread,Fast Foods,213,10.62,11.78,17.01,15.91,57.37
+783633,Frankfurter Or Hot Dog Sandwich NFS Plain On Wheat Bread,Fast Foods,313,21.33,11.77,17.76,16.46,46.53
+783643,Frankfurter Or Hot Dog Sandwich Beef Plain On Wheat Bread,Fast Foods,313,21.33,11.77,17.76,16.46,46.53
+172095,Pizza Meat Topping Thick Crust Frozen Cooked,Fast Foods,274,11.52,11.76,30.76,28.46,43.27
+170363,Digiorno Pizza Supreme Topping Rising Crust Frozen Baked,Fast Foods,255,10.68,11.74,27.93,25.63,46.8
+173295,Pepperoni Pizza,Fast Foods,282,11.91,11.74,31.98,29.68,41.77
+783692,Frankfurter Or Hot Dog Sandwich Fat Free Plain On White Bread,Fast Foods,165,2.22,11.74,24.19,23.29,58.94
+172041,Pizza Hut 12 Inch Cheese Pizza Pan Crust,Fast Foods,280,12.56,11.73,29.93,28.23,43.4
+170770,Wendys Crispy Chicken Sandwich,Fast Foods,278,13.93,11.72,26.36,26.36,45.92
+783656,Frankfurter Or Hot Dog Sandwich Beef And Pork Plain On Multigrain Bread,Fast Foods,287,17.32,11.72,20.9,17.9,46.94
+783479,Hamburger 1 Miniature Patty With Condiments On Miniature Bun From Fast Food / Restaurant,Fast Foods,250,11.43,11.7,24.38,23.38,50.66
+783635,Frankfurter Or Hot Dog Sandwich NFS Plain On Whole Grain White Bread,Fast Foods,295,18.96,11.67,18.91,15.31,47.24
+783645,Frankfurter Or Hot Dog Sandwich Beef Plain On Whole Grain White Bread,Fast Foods,295,18.96,11.67,18.91,15.31,47.24
+783568,Chicken Fillet Breaded Fried Sandwich With Cheese Lettuce Tomato And Spread,Fast Foods,286,15.41,11.66,25.03,23.73,45.22
+783687,Frankfurter Or Hot Dog Sandwich Fat Free Plain On White Bun,Fast Foods,187,2.66,11.66,28.71,27.91,54.27
+783517,Roast Beef Submarine Sandwich With Lettuce Tomato And Spread,Fast Foods,181,6.16,11.64,19.4,18.7,61.11
+783557,Pork Barbecue Sandwich Or Sloppy Joe On Bun,Fast Foods,209,4.2,11.6,30.17,29.37,52.01
+783691,Frankfurter Or Hot Dog Sandwich Fat Free Plain On Multigrain Bun,Fast Foods,180,3.58,11.59,26.27,24.57,55.88
+173284,Papa Johns 14 Inch Cheese Pizza Original Crust,Fast Foods,260,9.25,11.53,32.74,30.84,44.16
+172045,Dominos 14 Inch Pepperoni Pizza Ultimate Deep Dish Crust,Fast Foods,283,12.1,11.52,31.89,29.49,41.9
+173277,Burrito With Beans And Beef,Fast Foods,191,7.47,11.52,19.52,16.52,60
+170367,Sausage Pizza,Fast Foods,280,12.35,11.5,30.62,28.32,43.06
+173296,Fast Food Pizza Chain 14 Inch Pizza Pepperoni Topping Thick Crust,Fast Foods,287,12.58,11.49,31.84,29.64,41.53
+170777,McDonalds Ranch Snack Wrap Crispy,Fast Foods,275,15.1,11.48,23.22,21.92,47.88
+170785,Crispy Chicken In Tortilla With Lettuce Cheese And Ranch Sauce,Fast Foods,275,15.1,11.48,23.22,21.92,47.88
+172053,Pizza Hut 14 Inch Pepperoni Pizza Pan Crust,Fast Foods,291,13.07,11.47,31.79,29.79,41.17
+783548,Ham Salad Sandwich,Fast Foods,221,10.24,11.47,20.01,18.71,55.86
+783649,Frankfurter Or Hot Dog Sandwich Beef And Pork Plain On Whole Wheat Bun,Fast Foods,288,16.26,11.47,23.82,21.02,45.29
+783690,Frankfurter Or Hot Dog Sandwich Fat Free Plain On Whole Grain White Bun,Fast Foods,177,2.48,11.46,27.11,26.11,56.18
+783666,Frankfurter Or Hot Dog Sandwich Meat And Poultry Plain On Multigrain Bread,Fast Foods,281,17.24,11.44,20.02,17.12,48.22
+783585,Buffalo Chicken Submarine Sandwich With Cheese,Fast Foods,203,9.77,11.43,17.35,16.35,59.56
+785382,French Toast Whole Grain,Fast Foods,269,11.26,11.43,30.3,27.6,45.29
+785390,French Toast Sticks Whole Grain,Fast Foods,269,11.26,11.43,30.3,27.6,45.29
+170364,Digiorno Pizza Supreme Topping Thin Crispy Crust Frozen Baked,Fast Foods,255,10.8,11.41,28.05,25.25,47.31
+173292,Cheese Pizza,Fast Foods,266,9.69,11.39,33.33,31.03,43.17
+783545,Ham Sandwich With Lettuce And Spread,Fast Foods,215,8,11.39,23.7,21.8,54.28
+785782,Burrito Taco Or Quesadilla With Egg And Breakfast Meat,Fast Foods,242,13.92,11.38,17.22,15.92,55.22
+785894,Taquito Or Flauta With Egg And Breakfast Meat,Fast Foods,267,12.7,11.38,25.94,24.04,47.6
+783721,Hors D'oeuvres With Spread,Fast Foods,206,4.85,11.37,28.79,27.29,53.25
+172054,Pizza Hut 14 Inch Super Supreme Pizza Hand-Tossed Crust,Fast Foods,248,10.95,11.34,26.01,23.71,49.15
+173317,Hamburger; Single Large Patty; With Condiments Vegetables And Mayonnaise,Fast Foods,226,12.37,11.34,17.33,15.83,57.52
+783654,Frankfurter Or Hot Dog Sandwich Beef And Pork Plain On Whole Wheat Bread,Fast Foods,281,17.03,11.34,20.64,18.24,47.78
+173266,Biscuit With Egg And Bacon,Fast Foods,305,20.73,11.33,19.06,18.56,46.67
+786057,Croissant Sandwich With Sausage And Egg,Fast Foods,350,23.97,11.33,21.65,20.45,41.16
+170715,Pizza Meat And Vegetable Topping Regular Crust Frozen Cooked,Fast Foods,276,14.43,11.28,25.14,22.94,46.71
+172071,McDonalds Sausage Biscuit With Egg,Fast Foods,311,22.26,11.27,19.28,18.48,44.62
+170297,Fish Sandwich With Tartar Sauce And Cheese,Fast Foods,279,14.64,11.26,26.39,25.59,45.76
+170319,McDonalds Filet-O-Fish,Fast Foods,282,14.64,11.26,26.39,24.99,45.76
+172044,Dominos 14 Inch Pepperoni Pizza Classic Hand-Tossed Crust,Fast Foods,273,11.18,11.25,31.86,29.76,43.4
+783427,Cheeseburger 1 Small Patty With Condiments On Bun From Fast Food / Restaurant (Burger King Whopper Jr. With Cheese),Fast Foods,225,11.88,11.2,18.11,17.21,56.77
+783431,Cheeseburger 1 Small Patty With Condiments On Bun From Fast Food / Restaurant (Wendy's Jr. Cheeseburger Deluxe),Fast Foods,225,11.88,11.2,18.11,17.21,56.77
+170728,Burger King Whopper With Cheese,Fast Foods,250,15.33,11.19,16.7,15.7,54.92
+783627,Frankfurter Or Hot Dog Sandwich NFS Plain On White Bun,Fast Foods,308,18.25,11.19,23.86,23.06,44.25
+783637,Frankfurter Or Hot Dog Sandwich Beef Plain On White Bun,Fast Foods,308,18.25,11.19,23.86,23.06,44.25
+783659,Frankfurter Or Hot Dog Sandwich Meat And Poultry Plain On Whole Wheat Bun,Fast Foods,282,16.16,11.18,22.78,20.08,46.78
+783632,Frankfurter Or Hot Dog Sandwich NFS Plain On White Bread,Fast Foods,310,20.93,11.17,18.38,17.48,46.92
+783642,Frankfurter Or Hot Dog Sandwich Beef Plain On White Bread,Fast Foods,310,20.93,11.17,18.38,17.48,46.92
+783648,Frankfurter Or Hot Dog Sandwich Beef And Pork Plain On Wheat Bun,Fast Foods,288,15.9,11.15,24.92,22.92,44.97
+785785,Burrito Taco Or Quesadilla With Egg Potato And Breakfast Meat From Fast Food,Fast Foods,242,13.94,11.15,17.76,16.46,54.82
+172028,Fast Foods Biscuit With Egg And Sausage,Fast Foods,312,20.77,11.13,21.05,20.85,44.48
+783631,Frankfurter Or Hot Dog Sandwich NFS Plain On Multigrain Bun,Fast Foods,301,19.18,11.11,21.42,19.72,45.86
+783641,Frankfurter Or Hot Dog Sandwich Beef Plain On Multigrain Bun,Fast Foods,301,19.18,11.11,21.42,19.72,45.86
+170787,Breakfast Burrito With Egg Cheese And Sausage,Fast Foods,277,15.63,11.1,22.97,21.77,47.55
+172063,McDonalds Sausage Burrito,Fast Foods,277,15.63,11.1,22.97,21.77,47.55
+783664,Frankfurter Or Hot Dog Sandwich Meat And Poultry Plain On Whole Wheat Bread,Fast Foods,276,16.95,11.09,19.77,17.47,49.02
+170372,Pizza Hut 14 Inch Sausage Pizza Pan Crust,Fast Foods,287,13.85,11.08,29.56,27.56,43.33
+170766,Dominos 14 Inch Sausage Pizza Classic Hand-Tossed Crust,Fast Foods,273,11.2,11.08,31.84,29.44,43.55
+173306,McDonalds Mcchicken Sandwich (Without Mayonnaise),Fast Foods,240,8.46,11.08,30.95,29.55,47.43
+170365,Fast Food Pizza Chain 14 Inch Pizza Sausage Topping Thick Crust,Fast Foods,282,12.94,11.06,30.36,28.06,43.22
+785378,French Toast Whole Grain From Fast Food / Restaurant,Fast Foods,304,14.11,11.05,33.39,30.29,39.57
+170767,Dominos 14 Inch Sausage Pizza Ultimate Deep Dish Crust,Fast Foods,277,12.03,11.03,31.17,28.57,43.12
+172055,Fast Food Pizza Chain 14 Inch Pizza Meat And Vegetable Topping Regular Crust,Fast Foods,244,10.9,11.02,25.38,23.18,50.4
+784044,Fried Egg Sandwich,Fast Foods,234,8.52,11,27.51,26.01,51.32
+783630,Frankfurter Or Hot Dog Sandwich NFS Plain On Whole Grain White Bun,Fast Foods,298,18.07,10.98,22.26,21.26,46.16
+783640,Frankfurter Or Hot Dog Sandwich Beef Plain On Whole Grain White Bun,Fast Foods,298,18.07,10.98,22.26,21.26,46.16
+783538,Bacon Lettuce Tomato And Cheese Submarine Sandwich With Spread,Fast Foods,233,13.96,10.97,15.7,14.4,56.64
+170343,Kfc Fried Chicken Extra Crispy Skin And Breading,Fast Foods,464,36.61,10.96,22.54,21.04,26.98
+170318,Fast Foods Crispy Chicken Filet Sandwich With Lettuce And Mayonnaise,Fast Foods,276,13.59,10.94,27.4,26,45.84
+170306,Submarine Sandwich Sweet Onion Chicken Teriyaki On White Bread With Lettuce Tomato And Sweet Onion Sauce,Fast Foods,155,2.37,10.91,22.54,21.34,62.4
+170705,Subway Sweet Onion Chicken Teriyaki Sub On White Bread With Lettuce Tomato And Sweet Onion Sauce,Fast Foods,155,2.37,10.91,22.54,21.34,62.4
+783559,Pork Sandwich With Gravy,Fast Foods,149,3.96,10.91,16.51,15.61,67.02
+173281,Pizza Hut 12 Inch Super Supreme Pizza Hand-Tossed Crust,Fast Foods,243,10.72,10.9,25.62,23.62,50.2
+783658,Frankfurter Or Hot Dog Sandwich Meat And Poultry Plain On Wheat Bun,Fast Foods,282,15.82,10.88,23.82,21.92,46.47
+173291,Pizza Hut 14 Inch Cheese Pizza Pan Crust,Fast Foods,276,11.25,10.85,32.85,30.75,42.68
+170309,Submarine Sandwich Oven Roasted Chicken On White Bread With Lettuce And Tomato,Fast Foods,157,3.15,10.84,21.35,20.15,63.15
+170314,Subway Oven Roasted Chicken Sub On White Bread With Lettuce And Tomato,Fast Foods,157,3.15,10.84,21.35,20.15,63.15
+783560,Ham And Tomato Club Sandwich With Lettuce And Spread,Fast Foods,237,12.98,10.83,19.39,17.99,54.22
+784064,Egg And Steak On Biscuit,Fast Foods,284,12.85,10.82,31.07,30.37,43.24
+173293,Fast Food Pizza Chain 14 Inch Pizza Cheese Topping Thick Crust,Fast Foods,271,10.54,10.81,33.17,30.97,43.05
+173282,Dominos 14 Inch Cheese Pizza Classic Hand-Tossed Crust,Fast Foods,257,8.97,10.8,33.24,31.04,44.87
+172056,Griddle Cake Sandwich Egg Cheese And Sausage,Fast Foods,291,17.73,10.77,22.04,21.44,47.03
+172060,McDonalds Sausage Egg & Cheese Mcgriddles,Fast Foods,283,17.73,10.77,22.04,21.44,47.03
+173283,Dominos 14 Inch Cheese Pizza Ultimate Deep Dish Crust,Fast Foods,265,9.83,10.76,33.48,31.08,43.42
+783551,Hot Ham And Cheese Sandwich On Bun,Fast Foods,213,11.45,10.76,16.18,14.98,58.76
+170727,Burger King Whopper No Cheese,Fast Foods,233,12.84,10.74,18.55,16.75,56.43
+783616,Puerto Rican Sandwich,Fast Foods,334,17.98,10.7,31.86,30.76,36.48
+170307,Subway Subway Club Sub On White Bread With Lettuce And Tomato,Fast Foods,146,2.42,10.66,20.36,18.96,64.7
+170308,Submarine Sandwich Turkey Roast Beef And Ham On White Bread With Lettuce And Tomato,Fast Foods,146,2.42,10.66,20.36,18.96,64.7
+173267,Biscuit With Egg And Ham,Fast Foods,233,14.08,10.64,16.37,15.97,56.6
+785381,French Toast Plain Reduced Fat,Fast Foods,237,6.22,10.64,34.05,32.65,47.49
+783608,Tuna Melt Sandwich,Fast Foods,232,13.53,10.62,17.06,16.06,56.4
+783655,Frankfurter Or Hot Dog Sandwich Beef And Pork Plain On Whole Grain White Bread,Fast Foods,276,16.48,10.62,21.13,17.43,48.02
+783653,Frankfurter Or Hot Dog Sandwich Beef And Pork Plain On Wheat Bread,Fast Foods,291,18.64,10.56,20.03,18.63,47.6
+170315,Subway Cold Cut Sub On White Bread With Lettuce And Tomato,Fast Foods,214,10.04,10.52,20.43,19.23,56.51
+170696,Submarine Sandwich Cold Cut On White Bread With Lettuce And Tomato,Fast Foods,213,10.04,10.52,20.43,19.23,56.51
+783572,Fajita-Style Chicken Sandwich With Cheese On Pita Bread With Lettuce And Tomato,Fast Foods,156,5.74,10.52,15.26,14.06,66.68
+783413,Sandwich Nfs,Fast Foods,301,13.79,10.47,32.9,31.2,40.58
+783414,Meat Sandwich Nfs,Fast Foods,301,13.79,10.47,32.9,31.2,40.58
+783612,Bologna Sandwich With Spread,Fast Foods,301,13.79,10.47,32.9,31.2,40.58
+785786,Burrito Taco Or Quesadilla With Egg Beans And Breakfast Meat,Fast Foods,224,12.47,10.46,17.32,15.32,57.59
+173305,McDonalds Mcchicken Sandwich,Fast Foods,273,13.21,10.43,27.97,26.67,46.11
+783591,Turkey And Bacon Submarine Sandwich With Lettuce Tomato And Spread,Fast Foods,206,9.47,10.43,19.45,18.35,58.52
+783665,Frankfurter Or Hot Dog Sandwich Meat And Poultry Plain On Whole Grain White Bread,Fast Foods,271,16.43,10.4,20.24,16.64,49.25
+170704,School Lunch Pizza Tonys Breakfast Pizza Sausage Frozen,Fast Foods,240,10.04,10.39,26.99,24.99,50.2
+783663,Frankfurter Or Hot Dog Sandwich Meat And Poultry Plain On Wheat Bread,Fast Foods,286,18.56,10.38,19.2,17.9,48.73
+170317,Pizza Cheese Topping Regular Crust Frozen Cooked,Fast Foods,268,12.28,10.36,29.02,26.82,46.28
+172076,Burger King Croissanwich With Egg And Cheese,Fast Foods,283,15.78,10.35,24.79,24.09,46.4
+172046,Dominos 14 Inch Extravaganzza Feast Pizza Classic Hand-Tossed Crust,Fast Foods,244,11.1,10.33,25.72,23.72,50.77
+170296,Fish Sandwich With Tartar Sauce,Fast Foods,257,12.45,10.29,26.69,25.69,48.44
+170330,Burger King Premium Fish Sandwich,Fast Foods,260,12.45,10.29,26.69,25.79,48.44
+173312,McDonalds Bacon Ranch Salad With Grilled Chicken,Fast Foods,81,3.14,10.28,3.64,2.64,81.42
+783418,Beef Barbecue Sandwich Or Sloppy Joe On Bun,Fast Foods,233,6.26,10.28,32.93,32.03,48.15
+173286,Papa Johns 14 Inch The Works Pizza Original Crust,Fast Foods,240,10.21,10.27,26.69,24.19,50.57
+785780,Burrito Taco Or Quesadilla With Egg,Fast Foods,229,11.84,10.27,19.69,18.29,56.06
+783647,Frankfurter Or Hot Dog Sandwich Beef And Pork Plain On White Bun,Fast Foods,293,16.04,10.26,26.23,25.43,44.56
+783607,Tuna Salad Sandwich,Fast Foods,162,3.53,10.23,22.56,21.36,62.07
+783651,Frankfurter Or Hot Dog Sandwich Beef And Pork Plain On Multigrain Bun,Fast Foods,285,17.01,10.18,23.66,21.86,46.25
+172064,McDonalds Big Breakfast,Fast Foods,285,19.37,10.16,17.5,16.4,50.68
+785784,Burrito Taco Or Quesadilla With Egg Potato And Breakfast Meat,Fast Foods,246,14.36,10.14,18.86,17.36,54.39
+785373,French Toast Nfs,Fast Foods,270,10.95,10.12,32.37,30.97,44.97
+785380,French Toast Plain,Fast Foods,270,10.95,10.12,32.37,30.97,44.97
+170312,Subway B.l.t. Sub On White Bread With Bacon Lettuce And Tomato,Fast Foods,205,6.41,10.06,26.66,25.06,55.03
+170313,Submarine Sandwich Bacon Lettuce And Tomato On White Bread,Fast Foods,205,6.41,10.06,26.66,25.06,55.03
+785893,Taquito Or Flauta With Egg,Fast Foods,255,11.39,10.06,27.37,25.37,49.01
+783650,Frankfurter Or Hot Dog Sandwich Beef And Pork Plain On Whole Grain White Bun,Fast Foods,281,15.84,10.04,24.55,23.45,46.57
+783657,Frankfurter Or Hot Dog Sandwich Meat And Poultry Plain On White Bun,Fast Foods,286,15.95,10.03,25.06,24.26,46.08
+783718,Frankfurter Or Hot Dog Sandwich With Meatless Chili On Multigrain Bread,Fast Foods,223,13.24,10.03,16.47,13.47,58.16
+783661,Frankfurter Or Hot Dog Sandwich Meat And Poultry Plain On Multigrain Bun,Fast Foods,279,16.87,9.95,22.63,20.93,47.69
+783711,Frankfurter Or Hot Dog Sandwich With Meatless Chili On Whole Wheat Bun,Fast Foods,226,12.79,9.94,18.36,15.46,56.73
+170560,Seeds Sesame Flour Low-Fat,Nuts and Seeds,333,1.75,50.14,35.51,35.51,7.1
+170146,Seeds Cottonseed Flour Low Fat (Glandless),Nuts and Seeds,332,1.41,49.83,36.1,36.1,6.9
+170147,Seeds Cottonseed Meal Partially Defatted (Glandless),Nuts and Seeds,367,4.77,49.1,38.43,38.43,1.2
+170156,Seeds Sunflower Seed Flour Partially Defatted,Nuts and Seeds,326,1.61,48.06,35.83,30.63,7.47
+170555,Seeds Cottonseed Flour Partially Defatted (Glandless),Nuts and Seeds,359,6.2,40.96,40.54,37.54,6.3
+170153,Seeds Sesame Flour Partially Defatted,Nuts and Seeds,382,11.89,40.32,35.14,35.14,6.61
+170559,Seeds Safflower Seed Meal Partially Defatted,Nuts and Seeds,342,2.39,35.62,48.73,48.73,6.41
+170596,Seeds Cottonseed Kernels Roasted (Glandless),Nuts and Seeds,506,36.29,32.59,21.9,16.4,4.65
+170148,Hemp Seeds,Nuts and Seeds,553,48.75,31.56,8.67,4.67,4.96
+170192,Seeds Sesame Flour High-Fat,Nuts and Seeds,526,37.1,30.78,26.62,26.62,0.9
+170556,Dried Pumpkin And Squash Seeds,Nuts and Seeds,559,49.05,30.23,10.71,4.71,5.23
+169415,Roasted Squash And Pumpkin Seeds (Salted),Nuts and Seeds,574,49.05,29.84,14.71,8.21,2.03
+170557,Roasted Squash And Pumpkin Seeds (Unsalted),Nuts and Seeds,574,49.05,29.84,14.71,8.21,2.03
+784458,Pumpkin Seeds Salted,Nuts and Seeds,567,48.47,29.49,14.54,8.14,2.01
+169407,Seeds Watermelon Seed Kernels Dried,Nuts and Seeds,557,47.37,28.33,15.31,15.31,5.05
+170570,Butternuts (Dried),Nuts and Seeds,612,56.98,24.9,12.05,7.35,3.34
+173806,Dry Roasted Peanuts,Nuts and Seeds,587,49.66,24.35,21.26,12.86,1.81
+784396,Peanuts Dry Roasted Lightly Salted,Nuts and Seeds,584,49.41,24.23,21.15,12.75,1.8
+170186,Black Walnuts (Dried),Nuts and Seeds,619,59.33,24.06,9.58,2.78,4.56
+784418,Peanut Butter Lower Sodium And Lower Sugar,Nuts and Seeds,624,53.12,23.5,18.27,11.87,1.58
+170586,Nuts Mixed Nuts Dry Roasted With Peanuts Salt Added Planters Pistachio Blend,Nuts and Seeds,572,47.52,23.28,23.07,14.97,2.87
+784467,Mixed Seeds,Nuts and Seeds,580,49.61,21.96,21.73,11.73,1.41
+169420,Nuts Almonds Oil Roasted With Salt Added Smoke Flavor,Nuts and Seeds,607,55.89,21.43,17.86,7.16,2.8
+170568,Nuts Almonds Blanched,Nuts and Seeds,590,52.52,21.4,18.67,8.77,4.51
+168602,Nuts Almonds Oil Roasted Lightly Salted,Nuts and Seeds,607,55.17,21.23,17.68,7.18,2.8
+169419,Nuts Almonds Oil Roasted With Salt Added,Nuts and Seeds,607,55.17,21.23,17.68,7.18,2.8
+170159,Nuts Almonds Oil Roasted Without Salt Added,Nuts and Seeds,607,55.17,21.23,17.68,7.18,2.8
+170567,Almonds,Nuts and Seeds,579,49.93,21.15,21.55,9.05,4.41
+169426,Nuts Pistachio Nuts Dry Roasted With Salt Added,Nuts and Seeds,569,45.82,21.05,27.55,17.25,1.79
+170185,Dry Roasted Pistachio Nuts,Nuts and Seeds,572,45.82,21.05,28.28,17.98,1.85
+168588,Almond Butter,Nuts and Seeds,614,55.5,20.96,18.82,8.52,1.64
+168596,Nuts Almonds Dry Roasted With Salt Added,Nuts and Seeds,598,52.54,20.96,21.01,10.11,2.41
+168603,Nuts Almond Butter Plain With Salt Added,Nuts and Seeds,614,55.5,20.96,18.82,8.52,1.64
+170158,Dry Roasted Almonds,Nuts and Seeds,598,52.54,20.96,21.01,10.11,2.41
+170562,Dried Sunflower Seeds,Nuts and Seeds,584,51.46,20.78,20,11.4,4.73
+169412,Seeds Sesame Seed Kernels Dried (Decorticated),Nuts and Seeds,631,61.21,20.45,11.73,0.13,3.75
+784408,Pistachio Nuts Unsalted,Nuts and Seeds,581,47.44,20.42,27.43,17.43,1.79
+784367,Almonds Unsalted,Nuts and Seeds,607,53.96,20.33,20.38,9.78,2.34
+784407,Pistachio Nuts Lightly Salted,Nuts and Seeds,579,47.21,20.32,27.3,17.4,1.79
+784406,Pistachio Nuts Salted,Nuts and Seeds,576,46.98,20.22,27.16,17.26,1.78
+170184,Pistachio Nuts,Nuts and Seeds,560,45.32,20.16,27.17,16.57,4.37
+784365,Almonds Salted,Nuts and Seeds,601,53.43,20.13,20.18,9.68,2.32
+784368,Almonds Flavored,Nuts and Seeds,599,53.27,20.07,20.12,9.72,2.31
+168593,Seeds Sunflower Seed Kernels Oil Roasted With Salt Added,Nuts and Seeds,592,51.3,20.06,22.89,12.29,1.54
+170564,Seeds Sunflower Seed Kernels Oil Roasted Without Salt,Nuts and Seeds,592,51.3,20.06,22.89,12.29,1.54
+784453,Trail Mix With Nuts,Nuts and Seeds,600,52.82,20.06,21.18,13.08,1.97
+168600,Nuts Mixed Nuts Oil Roasted With Peanuts With Salt Added,Nuts and Seeds,607,53.95,20.04,21.05,14.05,2.08
+169427,Nuts Mixed Nuts Oil Roasted With Peanuts Lightly Salted,Nuts and Seeds,607,53.95,20.04,21.05,14.05,2.08
+170587,Nuts Mixed Nuts Oil Roasted With Peanuts Without Salt Added,Nuts and Seeds,607,53.95,20.04,21.05,14.05,2.08
+784386,Mixed Nuts With Peanuts Unsalted,Nuts and Seeds,610,54.05,19.74,21.21,13.61,2.12
+784362,Nuts Nfs,Nuts and Seeds,605,53.62,19.59,21.04,13.44,2.11
+784382,Mixed Nuts Nfs,Nuts and Seeds,605,53.62,19.59,21.04,13.44,2.11
+170585,Dry-Roasted Mixed Nuts (Salted),Nuts and Seeds,607,53.5,19.5,22.42,16.02,2.13
+169417,Dry Roasted Sunflower Seeds (With Salt),Nuts and Seeds,546,49.8,19.33,15.31,6.31,1.2
+169418,Seeds Sunflower Seed Kernels Dry Roasted With Salt Added,Nuts and Seeds,582,49.8,19.33,24.07,15.07,1.2
+170563,Dry Roasted Sunflower Seeds,Nuts and Seeds,582,49.8,19.33,24.07,12.97,1.2
+784461,Sunflower Seeds Plain Salted,Nuts and Seeds,575,49.21,19.1,23.78,12.78,1.19
+168601,Seeds Pumpkin And Squash Seeds Whole Roasted With Salt Added,Nuts and Seeds,446,19.4,18.55,53.75,35.35,4.5
+170188,Roasted Squash And Pumpkin Seeds (With Shells),Nuts and Seeds,446,19.4,18.55,53.75,35.35,4.5
+784462,Sunflower Seeds Flavored,Nuts and Seeds,567,47.54,18.45,25.93,15.33,1.15
+169414,Flax Seeds,Nuts and Seeds,534,42.16,18.29,28.88,1.58,6.96
+170162,Cashews (Raw),Nuts and Seeds,553,43.85,18.22,30.19,26.89,5.2
+168592,Nuts Almonds Honey Roasted Unblanched,Nuts and Seeds,594,49.9,18.17,27.9,14.2,1.7
+170191,Seeds Sesame Butter Paste,Nuts and Seeds,586,50.87,18.08,24.05,18.55,1.6
+170181,Nuts Mixed Nuts Dry Roasted With Peanuts Salt Added Chosen Roaster,Nuts and Seeds,608,53.2,18,24.62,17.52,1.52
+169406,Seeds Sesame Butter Tahini From Unroasted Kernels (Non-Chemically Removed Seed Coat),Nuts and Seeds,607,56.44,17.95,17.89,8.59,3
+169428,Nuts Mixed Nuts Oil Roasted Without Peanuts Lightly Salted,Nuts and Seeds,607,50,17.86,25,17.9,3.15
+169410,Raw Sesame Butter (Tahini),Nuts and Seeds,570,48,17.81,26.19,16.89,3
+170150,Seeds Sesame Seeds Whole Dried,Nuts and Seeds,573,49.67,17.73,23.45,11.65,4.69
+170163,Cashew Butter,Nuts and Seeds,587,49.41,17.56,27.57,25.57,2.96
+168604,Seeds Sesame Butter Tahini Type Of Kernels Unspecified,Nuts and Seeds,592,53.01,17.4,21.5,16.8,3
+168599,Nuts Mixed Nuts Dry Roasted With Peanuts With Salt Added,Nuts and Seeds,594,51.45,17.3,25.35,16.35,1.75
+168595,Seeds Sunflower Seed Butter With Salt Added,Nuts and Seeds,617,55.2,17.28,23.32,17.62,0.62
+170155,Seeds Sunflower Seed Butter Without Salt,Nuts and Seeds,617,55.2,17.28,23.32,17.62,0.62
+168594,Seeds Sunflower Seed Kernels Toasted With Salt Added,Nuts and Seeds,619,56.8,17.21,20.59,9.09,1
+170154,Seeds Sunflower Seed Kernels Toasted Without Salt,Nuts and Seeds,619,56.8,17.21,20.59,9.09,1
+170189,Sesame Butter (Tahini),Nuts and Seeds,595,53.76,17,21.19,11.89,3.05
+169416,Seeds Sesame Seed Kernels Toasted With Salt Added (Decorticated),Nuts and Seeds,567,48,16.96,26.04,9.14,5
+170151,Sesame Seeds (Toasted),Nuts and Seeds,565,48,16.96,25.74,11.74,3.3
+170152,Seeds Sesame Seed Kernels Toasted Without Salt Added (Decorticated),Nuts and Seeds,567,48,16.96,26.04,9.14,5
+170561,Seeds Sesame Meal Partially Defatted,Nuts and Seeds,567,48,16.96,26.04,26.04,5
+784383,Mixed Nuts Unroasted,Nuts and Seeds,606,54.13,16.96,23.17,15.57,2.64
+169422,Nuts Cashew Nuts Oil Roasted With Salt Added,Nuts and Seeds,581,47.77,16.84,30.16,26.86,2.34
+170572,Oil Roasted Cashews,Nuts and Seeds,580,47.77,16.84,29.87,26.57,3.48
+170554,Chia Seeds,Nuts and Seeds,486,30.74,16.54,42.12,7.72,5.8
+784388,Mixed Nuts Without Peanuts Unsalted,Nuts and Seeds,615,55.54,16.44,22.46,15.06,2.56
+784387,Mixed Nuts Without Peanuts Salted,Nuts and Seeds,610,55.09,16.31,22.28,14.98,2.54
+170558,Safflower Seeds,Nuts and Seeds,517,38.45,16.18,34.29,34.29,5.62
+169423,Nuts Mixed Nuts Oil Roasted Without Peanuts With Salt Added,Nuts and Seeds,615,56.17,15.52,22.27,16.77,3.15
+170588,Nuts Mixed Nuts Oil Roasted Without Peanuts Without Salt Added,Nuts and Seeds,615,56.17,15.52,22.27,16.77,3.15
+170149,Dried Lotus Seeds,Nuts and Seeds,332,1.97,15.41,64.47,64.47,14.16
+784389,Mixed Nuts Honey Roasted,Nuts and Seeds,579,46.51,15.35,33.28,27.38,1.65
+169421,Nuts Cashew Nuts Dry Roasted With Salt Added,Nuts and Seeds,574,46.35,15.31,32.69,29.69,1.7
+170571,Dry-Roasted Cashews,Nuts and Seeds,574,46.35,15.31,32.69,29.69,1.7
+170187,Walnuts,Nuts and Seeds,654,65.21,15.23,13.71,7.01,4.07
+170583,Dry Roasted Hazelnuts,Nuts and Seeds,646,62.4,15.03,17.6,8.2,2.52
+170581,Hazelnuts,Nuts and Seeds,628,60.75,14.95,16.7,7,5.31
+784375,Cashews Unsalted,Nuts and Seeds,583,47.96,14.85,31.71,28.81,1.65
+784374,Cashews Lightly Salted,Nuts and Seeds,580,47.72,14.78,31.55,28.65,1.64
+170569,Brazilnuts,Nuts and Seeds,659,67.1,14.32,11.74,4.24,3.42
+170594,Nuts Walnuts Dry Roasted With Salt Added,Nuts and Seeds,643,60.71,14.29,17.86,10.76,4.39
+784369,Almonds Honey Roasted,Nuts and Seeds,575,45.27,14.11,35.92,28.62,1.63
+170180,Nuts Formulated Wheat-Based Unflavored With Salt Added,Nuts and Seeds,622,57.7,13.82,23.68,18.48,2.5
+170582,Nuts Hazelnuts Or Filberts Blanched,Nuts and Seeds,629,61.15,13.7,17,6,5.79
+170591,Pine Nuts (Dried),Nuts and Seeds,673,68.37,13.69,13.08,9.38,2.28
+169411,Nuts Formulated Wheat-Based All Flavors Except Macadamia Without Salt,Nuts and Seeds,647,62.3,13.11,20.79,15.59,2
+784456,Trail Mix With Pretzels Cereal Or Granola,Nuts and Seeds,473,27.6,13.06,50.63,44.63,5.57
+787484,Broccoli Cooked Ns As To Form With Cheese Sauce,Vegetables,80,4.63,5.3,5.38,3.28,83.31
+787486,Broccoli Cooked From Frozen With Cheese Sauce,Vegetables,80,4.64,5.3,5.38,3.28,83.3
+168417,Drumstick Leaves Cooked Boiled Drained Without Salt,Vegetables,60,0.93,5.27,11.15,9.15,81.65
+168531,Drumstick Leaves Cooked Boiled Drained With Salt,Vegetables,60,0.93,5.27,11.15,9.15,81.65
+170086,Beans Pinto Mature Seeds Sprouted Raw,Vegetables,62,0.9,5.25,11.6,11.6,81.3
+787404,Spinach Cooked From Fresh With Cheese Sauce,Vegetables,77,4.8,5.25,4.28,2.58,83.53
+787408,Palak Paneer,Vegetables,96,6.84,5.23,4.32,3.12,82.16
+170016,Peas Green Frozen Unprepared,Vegetables,77,0.4,5.22,13.62,9.12,79.98
+788807,Vegetable Combinations Excluding Carrots Broccoli And Dark-Green Leafy; Cooked With Cheese Sauce,Vegetables,104,5.27,5.22,10.04,8.14,78.15
+788419,Peas Green Cooked From Fresh Made With Butter,Vegetables,102,2.53,5.2,15.09,9.79,75.63
+788404,Peas Green Cooked From Fresh Ns As To Fat Added In Cooking,Vegetables,99,2.28,5.19,15.1,9.8,75.88
+788412,Peas Green Cooked From Fresh Fat Added In Cooking Ns As To Type Of Fat,Vegetables,99,2.28,5.19,15.1,9.8,75.88
+788418,Peas Green Cooked From Fresh Made With Oil,Vegetables,105,2.96,5.18,15.11,9.81,75.26
+788420,Peas Green Cooked From Fresh Made With Margarine,Vegetables,96,1.93,5.18,15.11,9.81,76.24
+170017,Peas Green Frozen Cooked Boiled Drained Without Salt,Vegetables,78,0.27,5.15,14.26,9.76,79.52
+170105,Peas Green Frozen Cooked Boiled Drained With Salt,Vegetables,78,0.27,5.15,14.26,9.76,79.52
+788407,Peas Green Cooked Ns As To Form Fat Not Added In Cooking,Vegetables,78,0.27,5.12,14.17,9.67,79.03
+788409,Peas Green Cooked From Frozen Fat Not Added In Cooking,Vegetables,78,0.27,5.12,14.17,9.67,79.03
+787485,Broccoli Cooked From Fresh With Cheese Sauce,Vegetables,90,5.36,5.09,6.59,4.39,81.46
+788702,Jai Monk's Food,Vegetables,89,1.96,5.08,15.39,12.89,76.44
+168477,Succotash,Vegetables,115,0.8,5.07,24.38,19.88,68.37
+170540,Succotash (Corn And Limas) Cooked Boiled Drained With Salt,Vegetables,111,0.8,5.07,24.37,24.37,68.37
+169384,Tomatoes Sun-Dried Packed In Oil Drained,Vegetables,213,14.08,5.06,23.33,17.53,53.83
+170442,Potatoes Au Gratin Home-Prepared From Recipe Using Butter,Vegetables,134,7.59,5.06,11.26,9.46,74
+170524,Potatoes Au Gratin Home-Prepared From Recipe Using Margarine,Vegetables,132,7.59,5.06,11.27,9.47,74
+169300,Succotash (Corn And Limas) Raw,Vegetables,99,1.02,5.03,19.59,15.79,73.1
+788770,Pea Salad With Cheese,Vegetables,202,16.02,5.02,9.52,7.02,68.02
+788416,Peas Green Cooked Ns As To Form Made With Butter,Vegetables,96,2.58,5,13.77,9.47,77.22
+788422,Peas Green Cooked From Frozen Made With Butter,Vegetables,96,2.58,5,13.77,9.47,77.22
+788403,Peas Green Cooked Ns As To Form Ns As To Fat Added In Cooking,Vegetables,94,2.33,4.99,13.78,9.48,77.47
+788405,Peas Green Cooked From Frozen Ns As To Fat Added In Cooking,Vegetables,94,2.33,4.99,13.78,9.48,77.47
+788411,Peas Green Cooked Ns As To Form Fat Added In Cooking Ns As To Type Of Fat,Vegetables,94,2.33,4.99,13.78,9.48,77.49
+788413,Peas Green Cooked From Frozen Fat Added In Cooking Ns As To Type Of Fat,Vegetables,94,2.33,4.99,13.78,9.48,77.47
+168487,Taro Leaves Raw,Vegetables,42,0.74,4.98,6.7,3,85.66
+788415,Peas Green Cooked Ns As To Form Made With Oil,Vegetables,100,3,4.98,13.78,9.48,76.86
+788417,Peas Green Cooked Ns As To Form Made With Margarine,Vegetables,91,1.98,4.98,13.79,9.49,77.83
+788421,Peas Green Cooked From Frozen Made With Oil,Vegetables,100,3,4.98,13.78,9.48,76.86
+788423,Peas Green Cooked From Frozen Made With Margarine,Vegetables,91,1.98,4.98,13.79,9.49,77.83
+788428,Peas Green Canned Low Sodium Fat Not Added In Cooking,Vegetables,83,0.47,4.98,15.23,10.03,78
+787844,Lettuce Salad With Cheese Tomato And/or Carrots With Or Without Other Vegetables No Dressing,Vegetables,88,5.96,4.97,4.19,2.69,83.59
+788431,Peas Green Canned Low Sodium Made With Butter,Vegetables,102,2.83,4.92,14.95,9.85,75.95
+788805,Vegetables Dipped In Chick-Pea Flour Batter Fried Pakora,Vegetables,123,4.68,4.92,16.25,13.05,72.34
+788427,Peas Green Canned Low Sodium Ns As To Fat Added In Cooking,Vegetables,100,2.58,4.91,14.96,9.86,76.21
+788429,Peas Green Canned Low Sodium Fat Added In Cooking Ns As To Type Of Fat,Vegetables,100,2.58,4.91,14.96,9.86,76.21
+788430,Peas Green Canned Low Sodium Made With Oil,Vegetables,106,3.27,4.89,14.96,9.86,75.58
+788432,Peas Green Canned Low Sodium Made With Margarine,Vegetables,97,2.22,4.89,14.97,9.87,76.58
+783803,Stuffed Green Pepper Frozen Meal,Vegetables,94,4.38,4.88,9.27,8.07,80.1
+788745,Corn Scalloped Or Pudding,Vegetables,120,5.09,4.84,15.84,14.54,72.84
+168395,Beans Kidney Mature Seeds Sprouted Cooked Boiled Drained Without Salt,Vegetables,33,0.58,4.83,4.72,4.72,89.3
+169315,Beans Kidney Mature Seeds Sprouted Cooked Boiled Drained With Salt,Vegetables,33,0.58,4.83,4.72,4.72,89.3
+788762,Okra Batter-Dipped Fried,Vegetables,194,8.7,4.83,24.66,21.86,60.65
+168418,Pepeao Dried,Vegetables,298,0.44,4.82,81.03,81.03,11.14
+788715,Beans Lima Immature Cooked From Fresh With Mushroom Sauce,Vegetables,102,1.97,4.82,16.64,13.24,74.58
+168583,Wasabi Root,Vegetables,109,0.63,4.8,23.54,15.74,69.11
+169328,Broadbeans Immature Seeds Cooked Boiled Drained With Salt,Vegetables,62,0.5,4.8,10.1,10.1,83.7
+787272,Caesar Salad With Romaine No Dressing,Vegetables,71,3.41,4.77,6,4,84.61
+783283,Greens With Ham Or Pork,Vegetables,47,1.43,4.76,5.08,2.28,87.19
+786405,Stuffed Tomato With Rice And Meat,Vegetables,98,4.49,4.75,9.86,8.86,79.93
+787848,Seven-Layer Salad Lettuce Salad Made With A Combination Of Onion Celery Green Pepper Peas Mayonnaise Cheese Eggs And/or Bacon,Vegetables,227,20.71,4.75,5.6,4.3,67.72
+169399,Fireweed Leaves Raw,Vegetables,103,2.75,4.71,19.22,8.62,70.78
+788772,Peas From Fresh Creamed,Vegetables,111,4.78,4.69,12.78,9.58,76.46
+168406,Cowpeas Leafy Tips Cooked Boiled Drained Without Salt,Vegetables,22,0.1,4.67,2.8,2.8,91.3
+168529,Cowpeas Leafy Tips Cooked Boiled Drained With Salt,Vegetables,22,0.1,4.67,2.8,2.8,91.3
+788806,Vegetable Combinations Including Carrots Broccoli And/or Dark-Green Leafy; Cooked With Cheese Sauce,Vegetables,91,5.58,4.67,6.24,4.64,82.08
+787129,Potato Baked Peel Eaten With Meat,Vegetables,159,8.3,4.66,17.06,15.36,68.06
+168419,Jute Potherb Raw,Vegetables,34,0.25,4.65,5.8,5.8,87.72
+170078,Eppaw Raw,Vegetables,150,1.8,4.6,31.68,31.68,60
+788013,Bean Sprouts Cooked Ns As To Form Ns As To Fat Added In Cooking,Vegetables,80,5.84,4.57,4.95,4.15,83.15
+788014,Bean Sprouts Cooked From Fresh Ns As To Fat Added In Cooking,Vegetables,80,5.84,4.57,4.95,4.15,83.15
+788017,Bean Sprouts Cooked Ns As To Form Fat Added In Cooking,Vegetables,80,5.84,4.57,4.95,4.15,83.15
+788018,Bean Sprouts Cooked From Fresh Fat Added In Cooking,Vegetables,80,5.84,4.57,4.95,4.15,83.15
+788771,Peas Ns As To Form Creamed,Vegetables,108,4.81,4.57,12.01,9.41,77.38
+788773,Peas From Frozen Creamed,Vegetables,108,4.81,4.57,12.01,9.41,77.38
+169405,Fiddlehead Ferns,Vegetables,34,0.4,4.55,5.54,5.54,88.68
+168493,Arrowhead Cooked Boiled Drained With Salt,Vegetables,78,0.1,4.49,16.14,16.14,77.08
+169204,Arrowhead Cooked Boiled Drained Without Salt,Vegetables,78,0.1,4.49,16.14,16.14,77.08
+170013,Peas Green (Includes Baby And Lesuer Types) Canned Drained Solids Unprepared,Vegetables,68,0.8,4.47,11.36,6.46,82.29
+788410,Peas Green Cooked From Canned Fat Not Added In Cooking,Vegetables,68,0.8,4.46,11.33,6.43,82.1
+170104,Peas Green Canned No Salt Added Drained Solids,Vegetables,69,0.35,4.42,12.58,8.48,81.7
+170492,Corn Pudding Home Prepared,Vegetables,131,5.04,4.42,16.97,15.77,72.33
+787130,Potato Baked Peel Eaten With Chili,Vegetables,141,6.15,4.4,17.73,15.63,69.77
+170035,Potatoes Microwaved Cooked In Skin Skin Without Salt,Vegetables,132,0.1,4.39,29.63,24.13,63.5
+170115,Potatoes Microwaved Cooked In Skin Skin With Salt,Vegetables,132,0.1,4.39,29.63,24.13,63.5
+788653,Peas And Mushrooms Cooked Fat Not Added In Cooking,Vegetables,65,0.32,4.39,11.98,8.08,81.84
+788714,Beans Lima Immature Cooked Ns As To Form With Mushroom Sauce,Vegetables,90,1.98,4.37,14.06,10.66,78.06
+788716,Beans Lima Immature Cooked From Frozen With Mushroom Sauce,Vegetables,90,1.98,4.37,14.06,10.66,78.06
+788717,Beans Lima Immature Cooked From Canned With Mushroom Sauce,Vegetables,90,1.98,4.37,14.06,10.66,78.06
+788406,Peas Green Cooked From Canned Ns As To Fat Added In Cooking,Vegetables,83,2.74,4.36,11.04,6.24,80.54
+788414,Peas Green Cooked From Canned Fat Added In Cooking Ns As To Type Of Fat,Vegetables,83,2.74,4.36,11.04,6.24,80.54
+788425,Peas Green Cooked From Canned Made With Butter,Vegetables,85,2.97,4.36,11.03,6.23,80.31
+788641,Peas And Corn Cooked Fat Not Added In Cooking,Vegetables,90,0.86,4.35,18.23,14.33,75.15
+788424,Peas Green Cooked From Canned Made With Oil,Vegetables,89,3.37,4.34,11.04,6.24,79.97
+788426,Peas Green Cooked From Canned Made With Margarine,Vegetables,81,2.4,4.34,11.05,6.25,80.89
+170015,Peas Green Canned Drained Solids Rinsed In Tap Water,Vegetables,71,0.95,4.33,11.82,11.82,81.89
+170459,Canned Tomato Paste,Vegetables,82,0.47,4.32,18.91,14.81,73.5
+168480,Succotash (Corn And Limas) Frozen Unprepared,Vegetables,93,0.89,4.31,19.94,15.94,74.11
+169138,Mung Beans Mature Seeds Sprouted Cooked Stir-Fried,Vegetables,50,0.21,4.3,10.59,8.69,84.3
+784298,Sambar Vegetable Stew,Vegetables,84,2.64,4.3,11.61,7.71,80.32
+170034,Potatoes Baked Skin Without Salt,Vegetables,198,0.1,4.29,46.06,38.16,47.31
+170113,Potatoes Baked Skin Only With Salt,Vegetables,198,0.1,4.29,46.06,38.16,47.31
+787846,Lettuce Salad With Egg Cheese Tomato And/or Carrots With Or Without Other Vegetables No Dressing,Vegetables,69,4.29,4.29,3.65,2.25,86.7
+788656,Peas And Mushrooms Cooked Made With Butter,Vegetables,84,2.64,4.29,11.64,7.84,79.95
+788567,Beans Lima And Corn Cooked Fat Not Added In Cooking,Vegetables,92,0.88,4.28,19.83,15.73,73.67
+788652,Peas And Mushrooms Cooked Ns As To Fat Added In Cooking,Vegetables,82,2.39,4.28,11.65,7.85,80.2
+788654,Peas And Mushrooms Cooked Fat Added In Cooking Ns As To Type Of Fat,Vegetables,82,2.39,4.28,11.65,7.85,80.2
+169393,Grape Leaves Canned,Vegetables,69,1.97,4.27,11.71,1.81,76.1
+788655,Peas And Mushrooms Cooked Made With Oil,Vegetables,88,3.07,4.27,11.65,7.85,79.58
+788549,Turnip Cooked From Canned Fat Added In Cooking Ns As To Type Of Fat,Vegetables,40,2.2,0.7,4.89,2.99,91
+169988,Celery,Vegetables,14,0.17,0.69,2.97,1.37,95.43
+170053,Tomatoes Red Ripe Canned With Green Chilies,Vegetables,15,0.08,0.69,3.62,3.62,94.23
+788550,Turnip Cooked From Canned Made With Oil,Vegetables,46,2.82,0.69,4.89,2.99,90.47
+788552,Turnip Cooked From Canned Made With Margarine,Vegetables,37,1.8,0.69,4.91,3.01,91.42
+788553,Turnip Cooked From Fresh Made With Oil,Vegetables,46,2.89,0.69,4.89,2.99,90.39
+788555,Turnip Cooked From Fresh Made With Margarine,Vegetables,37,1.84,0.69,4.9,3,91.37
+169276,Radishes,Vegetables,16,0.1,0.68,3.4,1.8,95.27
+168452,Cooked Oriental Radishes,Vegetables,17,0.24,0.67,3.43,1.83,95.04
+169294,Cooked Acorn Squash,Vegetables,34,0.08,0.67,8.79,6.19,89.7
+170122,Radishes Oriental Cooked Boiled Drained With Salt,Vegetables,17,0.24,0.67,3.43,1.83,95.04
+168409,Cucumber,Vegetables,15,0.11,0.65,3.63,3.13,95.23
