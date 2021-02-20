@@ -1,12 +1,12 @@
 import numpy as np
 import sklearn
-from sklearn.preprocessing import scale
-from sklearn.datasets import load_digits
+from sklearn.metrics import accuracy_score
 from sklearn.cluster import KMeans
 from sklearn.decomposition import PCA
 from sklearn import preprocessing
 import pandas as pd
 import matplotlib.pyplot as plt
+from matplotlib import style
 
 data = pd.read_csv("1000_dataset.csv")
 print(data.head())
@@ -17,9 +17,9 @@ food_group = le.fit_transform(list(data["Food Group"]))
 data.info()
 lst = list(data.columns)
 print(lst)
-features = lst[3:6]
+features = lst[3:9]
 print(features)
-data1 = data[["Calories", "Carbohydrate "]]
+data1 = data[features]
 print(data1)
 
 
@@ -34,9 +34,11 @@ y = data["ID"]
 x_train, x_test, y_train, y_test = sklearn.model_selection.train_test_split(x, y, test_size=0.3)
 
 
-reduced_data = PCA().fit_transform(x_train)
-rdj = PCA().fit_transform(x_test)
-print(reduced_data)
+pca = PCA(n_components=2)
+reduced_data = pca.fit_transform(x_train)
+# rdj = PCA().fit_transform(x_test)
+print("shape of train : ", x_train.shape)
+print("Reduced data : ", reduced_data.shape)
 
 kmeans = KMeans(init='k-means++', n_clusters=3, n_init=10)
 kmeans.fit(reduced_data)
@@ -51,6 +53,8 @@ xx, yy = np.meshgrid(np.arange(x_min, x_max, h), np.arange(y_min, y_max, h))
 
 # Obtain labels for each point in mesh. Use last trained model.
 Z = kmeans.predict(np.c_[xx.ravel(), yy.ravel()])
+
+
 
 # Put the result into a color plot
 Z = Z.reshape(xx.shape)
