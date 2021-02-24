@@ -39,3 +39,4 @@ for i in range(5):
     plt.xlabel("actual" + class_names[i])
     plt.title("Prediction" + class_names[np.argmax(model_predict[i])])
     plt.show()
+
